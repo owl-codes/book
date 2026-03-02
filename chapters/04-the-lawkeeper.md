@@ -132,7 +132,7 @@ Sera listened, then shook her head. "You can't destroy Covenant evidence."
 
 "And if we don't destroy it, the Choir dies and something comes out of that rift that makes the cage look like a parking ticket."
 
-Sera's jaw tightened. Kael watched her weigh it — the law against the living, the procedure against the ticking clock. Two pressures. She stood between them and didn't move. [MOTIF] He'd seen that look before, on the faces of people who believed in systems.
+Sera's jaw tightened. Kael watched her weigh it — the law against the living, the procedure against the ticking clock. Two pressures. She stood between them and didn't move. He'd seen that look before, on the faces of people who believed in systems.
 
 "There's a middle path," Miro said, stepping in with the careful diplomacy of a man who'd spent eleven years navigating bureaucracies. "I can extract the control nexus intact. Pull the whole hub — housing, fusion cells, signal architecture, designation codes. Every piece of evidence preserved, chain of custody maintained. You get your prosecution. The Choir gets to live."
 

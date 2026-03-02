@@ -206,7 +206,7 @@ The Choir added their voices. Forty-six — no longer forty-seven — threading 
 
 He flew by instinct when that happened. Flew blind, by feel, by the copper thread of Talon's frequency and the muscle memory of ten thousand hours in this cockpit. His mouth was so dry his tongue stuck to his teeth. There was a water bottle in the storage net behind the seat and he could not reach it and it was, absurdly, the thing that bothered him most.
 
-One of the heavy cruisers — the *Indomitable*, according to Sera's tactical feed — changed tactics. Instead of firing through the harmonic wall, it began to circle, searching for a gap. Pressure always found the weak point. [MOTIF] The wall couldn't be everywhere at once. The deep listeners had to concentrate their strength, and the Choir had to maintain their position above the rift. There were flanks. There were angles. And the *Indomitable* was finding them.
+One of the heavy cruisers — the *Indomitable*, according to Sera's tactical feed — changed tactics. Instead of firing through the harmonic wall, it began to circle, searching for a gap. Pressure always found the weak point. The wall couldn't be everywhere at once. The deep listeners had to concentrate their strength, and the Choir had to maintain their position above the rift. There were flanks. There were angles. And the *Indomitable* was finding them.
 
 "Northern arc," Sera called. "The cruiser is moving to flank. If it gets past the barrier —"
 

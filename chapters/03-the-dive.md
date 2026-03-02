@@ -108,7 +108,7 @@ It was nothing like the sea-elk.
 
 The sea-elk had been a conversation. Twelve voices, polite, making space for each other. The Choir was a *flood*. Forty-seven minds hit him at once. His vision whited out. His body went rigid.
 
-The weight of their consciousness pressed against his skull the way the ocean pressed against the hull — just pressure, applied from a different direction, and it didn't matter which kind when you were the thing being crushed. [MOTIF]
+The weight of their consciousness pressed against his skull the way the ocean pressed against the hull — just pressure, applied from a different direction, and it didn't matter which kind when you were the thing being crushed.
 
 *I'm still here*, he told himself. *I'm Kael Orin. I'm on a ship. I'm —*
 
