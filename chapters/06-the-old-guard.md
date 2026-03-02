@@ -222,6 +222,18 @@ The Note Between would have understood.
 
 Talon screamed, her physical and frequency voices merging into a single, incandescent cry. On the *Indomitable*'s bridge, sensor arrays scrambled. The gap closed. The cruiser's lance fired into a wall that had no weakness and scattered like light through a prism.
 
+But the *Indomitable*'s captain had not fired only once.
+
+The second lance — the one Kael didn't see, the one aimed not at the gap but at the listeners holding the wall's western edge — hit one of the mounts broadside. Not a glancing blow. Not an absorbed impact. A direct, sustained strike that burned through millennia of calcified armor and into the living tissue beneath. The mount convulsed, its amber light flaring white-hot, and the three deep listeners on its platform were thrown sideways as the creature rolled.
+
+Two caught the platform's edge. One didn't.
+
+A man — old, thin, his suit covered in frequency sigils so faded they were barely visible — tumbled into open water. His mount was spiraling, wounded and disoriented, its frequency a jagged scream of pain that tore through the harmonic wall like a nail through fabric. The other listeners moved to compensate, closing the breach, but the damage was done — a section of the wall flickered, thinned, and for three terrible seconds the Choir was exposed.
+
+The white-haired woman's frequency surged. She patched the wall alone, holding the gap with raw, individual power that Kael felt like a physical blow — the effort of it staggering, unsustainable, the kind of thing that burns years off a person's life. Two other mounts converged on the wounded creature, their riders reaching for the man in the water. They pulled him onto a neighboring platform. He was alive. But his frequency — Kael could feel it — had gone dim. Not dead. Not gone. But diminished, the way a bell sounds after it's been cracked. He would live. He would not sing the same way again.
+
+The wounded mount listed downward, its amber glow fading to a dull pulse. It would survive — these creatures were ancient, and ancient things are hard to kill — but the scar would be permanent. A patch of dead tissue, lightless and silent, where the lance had burned through. It would carry that wound the way the Choir carried the Note Between's absence — not as a weakness but as a cost. The price of standing between.
+
 ---
 
 The battle lasted eleven minutes.
@@ -233,6 +245,18 @@ It ended not with a dramatic final strike but with the thing that ends most conf
 The Thirty-First pulled back. Not defeated — not destroyed, not broken, not humbled. They simply left, rising through the water column in the same tight formation they'd arrived in, their dark hulls disappearing into the upper ocean like knives sliding back into sheaths. They would be back. Or others would. The Union's institutional machinery didn't stop because one fleet withdrew from one ocean. But for now — for this hour, in this water, above this rift — the Choir was safe.
 
 Kael slumped in his seat. His nose was bleeding freely. His vision swam. His frequency-sense was raw and ringing, every nerve ending in his body vibrating with the aftershock of full-spectrum output. Talon had gone quiet on her perch, her feathers flat, her frequency a low, exhausted pulse. She had given everything. So had he.
+
+But something was different.
+
+He could feel it the way you feel a new crack in a tooth — not painful, not yet, but *there*, a change in the landscape of his own mind. His frequency-sense was recalibrating, and it wasn't settling back to where it had been. The full-spectrum burst had opened something, or broken something, or both — the distinction wasn't clear. He could hear things he'd never heard before: the microfrequencies of the deep listeners' mounts, the subsonic hum of the ocean's geological bones, a faint crystalline chime from the rift itself that he was fairly sure no human had ever perceived. The galaxy had gotten *louder*.
+
+But Talon's frequency — the copper thread, the lifeline, the sound he'd known since she was a fledgling — was quieter. Not gone. Not broken. Just... further away. As if the full-spectrum burst had stretched the distance between his mind and hers, and the elastic hadn't snapped all the way back. He reached for her, and the connection was there, steady, familiar. But he had to reach *further* than before.
+
+Talon felt it too. She opened one eye and looked at him — a long, searching look, her crest half-raised, her frequency probing the new distance between them with the careful attention of a hawk who has noticed that the wind has changed and is deciding what it means.
+
+It meant something. Kael didn't know what yet. But the Academy had warned about this — the permanent cost of full-spectrum output, the way it reshapes the listener's neural architecture, widening some channels and narrowing others. They'd called it *drift.* The gradual, irreversible shift that turns a listener into something the textbooks don't have a name for.
+
+He filed it away. Not for later. For always.
 
 Miro appeared beside him with a cup of something. Not gelberry tea. Not the Selvaan black tea Kael had been enduring for three days.
 
@@ -262,40 +286,56 @@ Kael pressed his hand against the viewport. His response was clumsy compared to 
 
 The old woman smiled. It transformed her face — turned the scars and lines into a landscape of warmth, fierce and tender at the same time, the smile of someone who had been protecting ancient things for so long that the protecting had become a kind of joy.
 
-*We heard the requiem. We always hear the requiems. It is how we know where we are needed.*
+*We heard the requiem. We always hear the requiems.*
 
-*You've done this before.*
+She didn't explain further. She didn't need to.
 
-*Many times. The young civilizations build cages. It is what the young do — they find what they do not understand and they try to hold it still. We take the cages down. We have been doing this since before your Union existed. We will be doing it after your Union is gone.*
+Her pale eyes moved to Sera's interceptor, floating nearby, Wick's silhouette visible through the cockpit glass.
 
-She paused. Her pale eyes moved to Sera's interceptor, floating nearby, Wick's silhouette visible through the cockpit glass.
-
-*The Lawkeeper. She sent the record?*
+*The Lawkeeper sent the record?*
 
 *Yes. To Arbiter Station.*
 
-*Good. Laws are a young thing too. But sometimes the young things work.* Another smile, smaller, sadder. *The forty-seventh. The one who died. Tell me.*
+A small nod — approving, practical. *Good. The young civilizations build cages. It is what the young do. Sometimes the young also build laws. That is better.* Her gaze returned to Kael. *The forty-seventh. The one who died. Tell me.*
 
 Kael told her. Not in words — in frequency, in the raw, unfiltered memory of the Note Between's requiem. The old woman received it in silence. When it was done, her eyes were wet, but her face hadn't changed. She had felt this before. Many times. The grief of the old was not a collapse. It was an accumulation.
 
-*We will stay,* she said. *Until the Choir is strong enough to hold alone. Then we will go back to the deep. There is always another cage. Always another song that needs protecting.*
+*We will stay,* she said. *Until the Choir is strong enough to hold alone. Then we will go back to the deep.*
 
 *Who are you?*
 
-She considered the question with the thoughtfulness of someone for whom identity had become a layered, complicated thing.
+She considered the question. Her frequency carried something that might have been humor.
 
-*We are what you are becoming, Kael Orin. We are the ones who listened until listening became living. We have no name that would fit in your language. The Choir calls us the Old Chorus. Your Academy called us lost. We call ourselves —* She paused, and the frequency carried something that might have been humor. *— busy.*
+*The Choir calls us the Old Chorus. Your Academy called us lost. We call ourselves busy.* The humor faded. Something else replaced it — something careful, measured, the frequency equivalent of choosing words precisely. *We did not come only for the requiem, Kael Orin.*
+
+He felt the weight of his own name in her signal. She hadn't pulled it from the conversation. She'd known it already.
+
+*What do you mean?*
+
+*We have been watching you for some time. Since the Ryllian sea-elk. Since before that, if I am honest. There are not many listeners left who can hear as wide as you hear. There are fewer still who choose to hear the things that hurt.* Her pale eyes held his through the glass. *The drift you are feeling — the widening — it is not damage. It is what happens when a listener stops holding back. You will hear more now. Much more. Things you will wish you could not hear. And you will not be able to stop.*
+
+Kael's hand pressed harder against the viewport. The new frequencies were already there — the crystalline hum of the rift, the subsonic pulse of the ocean floor, and beneath it all, faint and impossibly distant, something he hadn't noticed until this moment. A sound from somewhere else entirely. Not this ocean. Not this world. Another frequency, another voice, broadcasting on a channel so deep it barely registered as sensation.
+
+Another distress call.
+
+The old woman saw the recognition on his face. She nodded — slowly, without surprise, the way someone nods when a thing they predicted has come true.
+
+*There are eleven cages that we know of, Kael Orin. Across nine worlds. This was only the first.*
 
 She withdrew her hand. The frequency faded. Her mount turned slowly, moving back toward the Choir, and Kael watched her go — this woman who had given up everything he understood about the world in exchange for something so much larger that the trade didn't even register as a loss.
 
-He drank his terrible coffee. Talon stirred on her perch and opened one eye.
+He drank his terrible coffee. The new distress call hummed at the bottom of his hearing — barely there, achingly far, patient the way only ancient things are patient. He tried not to listen to it. He failed. His widened frequency wouldn't let him shut it out.
+
+Talon stirred on her perch and opened one eye. She felt the new signal too — he could tell by the way her crest rose, the way her frequency shifted from exhaustion to the faintest copper edge of *incoming.*
 
 *Home?* she asked.
 
 "Not yet," he said. "But soon."
 
-Through the viewport, the deep ocean glowed. Blue and white and amber and gold — two choruses, old and older, weaving their songs together above the rift. Forty-six and eighteen. The ancient and the ancient's ancient. And somewhere in the harmony, in a gap that had been empty since the forty-seventh voice went silent, Kael's own frequency still hummed — small, human, stubbornly present.
+Through the viewport, the deep ocean glowed. Blue and white and amber and gold — two choruses, old and older, weaving their songs together above the rift. Forty-six and eighteen. The ancient and the ancient's ancient. And somewhere in the harmony, in a gap that had been empty since the forty-seventh voice went silent, Kael's own frequency still hummed — small, human, stubbornly present. Changed.
 
-The detective in his novel would have had a line for this. Something wry, something clever, something that tied the impossible up in a bow. Kael didn't have a line. He had a cup of bad coffee, a bleeding nose, and the growing suspicion that his life had just changed in ways he couldn't yet calculate.
+The detective in his novel would have had a line for this. Something wry, something clever, something that tied the impossible up in a bow. Kael didn't have a line. He had a cup of bad coffee, a bleeding nose, a frequency-sense that would never work the same way again, and the distant, impossible sound of someone else calling for help from the other side of the galaxy.
 
-He dog-eared the thought for later. There was still work to do.
+Eleven cages. Nine worlds.
+
+He dog-eared the thought. Not for later. For next.
