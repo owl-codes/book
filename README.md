@@ -9,6 +9,7 @@ A lone agent roams the furthest reaches of the galaxy — specialist in futurist
 ## Table of Contents
 
 1. [Chapter 1 — The Frequency](chapters/01-the-frequency.md)
+2. [Chapter 2 — The Laughing Man](chapters/02-the-laughing-man.md)
 
 ---
 
@@ -19,7 +20,7 @@ Each chapter lives in the `chapters/` directory as its own Markdown file:
 ```
 chapters/
   01-the-frequency.md
-  02-...
+  02-the-laughing-man.md
   ...
 ```
 
