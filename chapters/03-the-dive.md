@@ -18,7 +18,7 @@ The ship dropped through the thermocline, past Miro's parked submersible, and in
 
 Depth counter: three thousand meters. Four thousand. Five.
 
-The frequency grew with every hundred meters. Not louder, exactly — *thicker*. Like the water itself was saturated with signal, every cubic meter vibrating with a harmonic so low Kael felt it in his molars, in the joints of his fingers, in the slow rhythm of his pulse.
+The frequency grew with every hundred meters. Not louder — *thicker*. The water itself saturated with signal, every cubic meter vibrating with a harmonic so low Kael felt it in his molars, in the joints of his fingers, in his pulse.
 
 "Miro."
 
@@ -42,7 +42,7 @@ Miro was quiet for a moment. "What do you need from me?"
 
 "Then we're well matched."
 
-Miro laughed — a real one, short and startled. "Alright, Orin. I've got you." He said it simply, the way you'd say it to someone you'd known for years. It landed heavier than it should have.
+Miro laughed — a real one, short and startled. "Alright, Orin. I've got you." He said it simply, the way you'd say it to someone you'd known for years.
 
 Kael glanced at him. Miro was checking his wrist-mounted scanner, calibrating something with quick, practiced fingers. His hands were steady. Whatever else Miro was — sleepless, manic, possibly losing the boundary between his own emotions and the Choir's — his hands were steady. Kael filed that away.
 
@@ -62,7 +62,7 @@ Kael glanced at him. Miro was checking his wrist-mounted scanner, calibrating so
 
 At eight thousand meters, they saw the cage.
 
-It emerged from the darkness in pieces — first a single line, ruler-straight, glowing faint amber where bioluminescent growth had colonized the surface. Then another line. Then a dozen, then hundreds, all intersecting at precise angles to form a lattice that extended beyond the reach of the ship's floods in every direction. A grid of light in the abyss, beautiful and terrible, like a cathedral built for the sole purpose of holding something prisoner.
+It emerged from the darkness in pieces — first a single line, ruler-straight, glowing faint amber where luminous growth had colonized the surface. Then another line. Then a dozen, then hundreds, all intersecting at precise angles to form a lattice that extended beyond the reach of the ship's floods in every direction. A grid of light in the abyss, like a cathedral built for the sole purpose of holding something prisoner.
 
 "Gravitic netting," Miro murmured, pulling up readings on his scanner. "Each node generates a localized gravity well — just enough to create an impassable barrier for anything biological. You could swim right into it and your own body weight would quintuple. Bones snap. Organs compress. You don't pass through. You just... stop."
 
@@ -84,19 +84,19 @@ The Choir.
 
 ---
 
-Kael had seen large creatures before. The sand leviathans of Dorr, seven hundred meters of armored body flowing through desert canyons. The void jellies that drifted between stars, so thin they were nearly two-dimensional, their mantles stretching kilometers across like living solar sails. He'd thought he understood scale.
+Kael had seen large creatures before. The sand leviathans of Dorr. The void jellies between stars, their mantles stretching kilometers across. He'd thought he understood scale.
 
 He didn't.
 
-The nearest member of the Choir drifted three hundred meters below the *Fang & Fable*, and it took Kael a full five seconds to understand what he was seeing. The body was not a single shape but a *process* — a vast, translucent form that shifted and rearranged itself continuously, like a cloud that had learned to think. Bioluminescent filaments trailed from its underside in curtains of pale blue light, each filament pulsing independently, creating patterns that rippled across the creature's body in waves. It had no eyes that Kael could identify. No mouth. No apparent front or back. It simply *was* — a cathedral of living light, rolling slowly in the dark water, its filaments stirring currents that he could feel through the hull.
+The nearest member drifted three hundred meters below, and it took Kael five seconds to understand what he was seeing. Not a shape — a *process*. Translucent, shifting, rearranging itself continuously. Filaments trailed from its underside in curtains of pale light, each one pulsing independently. No eyes. No mouth. No front or back. It simply *was*.
 
-And behind it, more. Dozens more. Vast shapes moving in the blackness, their bioluminescence painting the water in shifting constellations. Some were close enough to see clearly — each one unique, their filament patterns as distinct as fingerprints. Others were distant, visible only as galaxies of cold blue light drifting at the edges of the cage.
+Behind it, dozens more. Shapes in the blackness, their light painting the water in shifting constellations — each one unique, filament patterns as distinct as fingerprints.
 
 "My God," Miro whispered.
 
-Talon's frequency had gone completely silent. Kael had never felt that from her before. She was staring through the viewport, every feather pressed flat against her body, her amber eyes wide. Not fear. *Awe.* A frequency so quiet it was almost reverence.
+Talon's frequency had gone completely silent. She was staring through the viewport, every feather pressed flat, her amber eyes wide. Not fear. *Awe.*
 
-"Alright," Kael said. He unstrapped and moved to the center of the cockpit, where he could sit cross-legged on the floor. His left knee popped loud enough that Miro looked over, and the deck plates were cold through his trousers — ridged metal, not designed for sitting, pressing into his ankles at exactly the wrong angle. He shifted, couldn't find a position that didn't hurt, and gave up. [NEW] He placed his palms on the deck plates. Through the metal, he could feel the hum — the same signal that had crossed two nebulae to reach him, now so close and so powerful that his teeth ached with it.
+"Alright," Kael said. He unstrapped and moved to the center of the cockpit, where he could sit cross-legged on the floor. His left knee popped loud enough that Miro looked over, and the deck plates were cold through his trousers — ridged metal, not designed for sitting, pressing into his ankles at exactly the wrong angle. He shifted, couldn't find a position that didn't hurt, and gave up. He placed his palms on the deck plates. Through the metal, he could feel the hum — the same signal that had crossed two nebulae to reach him, now so close and so powerful that his teeth ached with it.
 
 "Opening up. Full spectrum."
 
@@ -106,23 +106,25 @@ He closed his eyes and let the walls down.
 
 It was nothing like the sea-elk.
 
-The sea-elk had been a conversation — twelve voices, harmonized, polite in the way that herd animals are polite, making space for each other. The Choir was a *flood*. Forty-seven minds hit him at once, and every one of them was older than anything Kael had ever touched. The sheer weight of their consciousness pressed against his skull like the ocean pressed against the hull — not malicious, not even aggressive, just *enormous*, the way a mountain is enormous, the way deep time is enormous. His vision whited out. His body went rigid.
+The sea-elk had been a conversation. Twelve voices, polite, making space for each other. The Choir was a *flood*. Forty-seven minds hit him at once. His vision whited out. His body went rigid.
+
+The weight of their consciousness pressed against his skull the way the ocean pressed against the hull — just pressure, applied from a different direction, and it didn't matter which kind when you were the thing being crushed. [MOTIF]
 
 *I'm still here*, he told himself. *I'm Kael Orin. I'm on a ship. I'm —*
 
-The thought dissolved. The Choir didn't communicate in sequences. They didn't think in *then*. Their consciousness operated in layers — emotional chords, five or six feelings stacked simultaneously, each one modifying the others the way harmonics modify a root note. What Kael's training had taught him to process as a single feeling — *fear*, *joy*, *grief* — the Choir expressed as composite structures, emotions that had no human name because they were built from combinations humans never experienced.
+Gone. The Choir didn't think in sequences. Their consciousness operated in layers — five or six feelings stacked simultaneously, each modifying the others the way harmonics modify a root note. He felt trapped-and-patient-and-furious-and-ancient, all at once, as a single unified state.
 
-He felt trapped-and-patient-and-furious-and-ancient, all at once, not as separate threads but as a single unified state, the way a major seventh chord is not four notes but one sound. And underneath that chord, another. And another. Layers descending into depths his mind couldn't follow.
+He was losing himself.
 
-He was losing himself. The edges of his identity were softening, dissolving into the Choir's vast collective hum the way a single voice disappears into a cathedral chorus. He could feel his own memories beginning to destabilize — Talon's fledgling weight in his hands, the notch in the Tidebreaker's stock, the taste of Selvaan black tea — all of it growing thin, transparent, as the Choir's signal overwrote everything with its own ancient, layered knowing.
+His memories — Talon's fledgling weight in his hands. The notch in the Tidebreaker's stock. Selvaan black tea. All of it thinning, growing transparent, as the Choir's signal overwrote everything.
 
 *Pull me out*, he'd told Miro. *If I go blank.*
 
-But he wasn't blank. He was *full*. Too full. Drowning in signal.
+But he wasn't blank. He was *full*. Too full. Drowning.
 
-Then — a single filament of thought, thin and precise, separated from the flood. One voice, stepping forward from the chorus. It reached for him carefully, the way you'd extend a hand to a small animal — slowly, with deliberate gentleness, aware of the difference in scale.
+Then — one voice, thin and precise, separated from the flood. It reached for him carefully, the way you'd extend a hand to a small animal. Slowly. Aware of the difference in scale.
 
-The chord simplified. The layers compressed. The Choir was *adjusting* — reshaping its communication to something his mind could hold without shattering. It cost them effort. Kael could feel the strain of it, forty-seven vast intelligences dampening themselves to a whisper so that one small creature could listen.
+The chord simplified. The Choir was *adjusting* — reshaping its communication to something his mind could hold. It cost them. Kael felt the strain — forty-seven intelligences dampening themselves to a whisper so that one small creature could listen.
 
 An image formed. Not visual — emotional, spatial, temporal, all at once. But Kael's brain translated it into something he could process:
 
@@ -132,7 +134,7 @@ An image formed. Not visual — emotional, spatial, temporal, all at once. But K
 
 He held up one hand. *Wait.*
 
-The image sharpened. The Choir showed him the cage from their perspective — not a prison but a *lid*. The gravitic netting didn't just trap them inside. It sealed something beneath them. The Choir had been here long before the cage. They'd been here for millennia, swimming in slow, ancient circuits above the deep rift where the ocean had no floor. They were not prisoners.
+The image sharpened. The Choir showed him the cage from their perspective — not a prison but a *lid*. The gravitic netting didn't just trap them inside. It sealed something beneath them. The Choir had been here long before the cage. They'd been here for millennia, swimming in slow circuits above the deep rift where the ocean had no floor. They were not prisoners.
 
 They were guards.
 
@@ -184,11 +186,11 @@ Miro's face had gone very quiet. Not the performed stillness of a joke about to 
 
 "What's in the rift?"
 
-Kael wiped the blood from his upper lip. The image the Choir had given him was already fading at the edges, the way dreams do, but the core of it held — a sensation of *scale*, of something coiled in the deepest dark, patient the way geology is patient, waiting the way an avalanche waits. Not alive, exactly. Not dead. Something older than either word.
+Kael wiped the blood from his upper lip. The image the Choir had given him was already fading at the edges, the way dreams do, but the core of it held — a sensation of *scale*, of something coiled in the deepest dark, patient the way geology is patient.
 
-"They don't have a name for it. The closest translation I can manage is — *the tone beneath all tones.* An anti-frequency. Everything the Choir is — connection, harmony, collective thought — this thing is the inverse. Severance. Silence. It doesn't destroy life. It destroys the ability of living things to communicate. To bond. To *hear* each other."
+"They don't have a name for it. The closest I can — it's an anti-frequency. Everything the Choir is — connection, harmony — this thing is the inverse. Severance. Silence. It doesn't destroy life. It destroys the ability of living things to *hear* each other."
 
-He met Miro's eyes. "If it gets out, every frequency-capable species in the sector goes deaf. Not just animals. Anything that relies on signal — neural networks, hive minds, bonded pairs. Every ship's communication array within range. Every connected intelligence, biological or artificial. Just... silence."
+He met Miro's eyes. "If it gets out, every frequency-capable species in the sector goes deaf. Not just animals. Anything that relies on signal — neural networks, hive minds, bonded pairs. Every ship's communication array. Just... silence."
 
 Miro sat back against the console. He was quiet for a long time. Kael watched the grin try to come back and fail, twice, before Miro gave up and just let his face be what it was — afraid.
 
@@ -236,9 +238,9 @@ The word *defunded* echoed in Kael's memory. Miro's research. Species that met t
 
 "Or they want what comes out of it. An anti-frequency weapon that severs communication across an entire sector — that's not a natural disaster. That's a military asset."
 
-Miro stared at the designation code on his screen. "I spent eleven years filing reports. I thought I was fighting bureaucratic indifference. Bad priorities. Budget politics." He shook his head slowly. "It wasn't indifference. They knew. They've known all along."
+Miro stared at the designation code on his screen. "I spent eleven years filing reports. I thought I was fighting bureaucratic indifference. Bad priorities. Budget —" He shook his head. "It wasn't indifference. They knew. They've known all along."
 
-The ship drifted beside the cage. Beyond the lattice, the Choir moved — vast shapes trailing curtains of blue light, their song pressing against the hull, against Kael's mind, against everything. Even dampened, even filtered through the ship's insulation, he could feel their exhaustion. Their frequency was thinner than it should have been. Fraying at the edges. They were holding the seal with everything they had left, and everything they had left was not enough for sixty-eight more hours.
+The ship drifted beside the cage. Beyond the lattice, the Choir moved — shapes trailing curtains of light, their song pressing against the hull, against Kael's mind. Even filtered through the ship's insulation, he could feel their exhaustion. Their frequency was thinner than it should have been. Fraying. They were holding the seal with everything they had left, and everything they had left was not enough for sixty-eight more hours.
 
 "We need to get inside the cage," Kael said. "Destroy the nexus."
 
@@ -262,9 +264,9 @@ Miro stared at him. Then, slowly, the grin came back — battered, tired, but re
 
 "It runs on a Kellerman-IV drive core. But spite helps."
 
-Miro opened his mouth, closed it, then tried anyway: "Spite — the renewable energy source they don't want you to know about." [NEW]
+Miro opened his mouth, closed it, then tried anyway: "Spite — the renewable energy source they don't want you to know about."
 
-Nothing. Kael was checking the depth gauge. Talon was preening a wing feather. The line hung in the recycled air for a beat too long, and Miro's eyes registered it — a flicker, barely visible, the micro-awareness of a rhythm missed — before he moved on as if it hadn't happened. [NEW]
+Nothing. Kael was checking the depth gauge. Talon was preening a wing feather. The line hung in the recycled air for a beat too long, and Miro's eyes registered it — a flicker, barely visible, the micro-awareness of a rhythm missed — before he moved on as if it hadn't happened.
 
 "Sixty-eight hours," Miro said.
 
@@ -278,11 +280,11 @@ Nothing. Kael was checking the depth gauge. Talon was preening a wing feather. T
 
 Kael took the ship down.
 
-Behind them, the Choir's song shifted — a new chord, layered and complex, but even Kael's battered frequency-sense could read its root note clearly:
+Behind them, the Choir's song shifted — a new chord, but even Kael's battered frequency-sense could read its root note clearly:
 
 *Hurry.*
 
-Below them, the ocean went on forever. The cage glowed above like a false sky, and somewhere in the lightless deep, the rift waited — sealed by song, threatened by silence, and counting down to a zero that would deafen the stars.
+Below them, the ocean went on forever. The cage glowed above like a false sky.
 
 Kael pushed the throttle forward.
 

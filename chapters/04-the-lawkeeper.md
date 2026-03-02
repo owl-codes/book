@@ -52,7 +52,7 @@ The owl was frequency-capable. Bonded. And trained — not the way Talon was tra
 
 "Kael Orin," Sera said. "Licensed Zoolinguist, Class Three. Five outstanding warrants in the Kessler Autonomous Region, none currently flagged for extradition. Ship registration lapsed fourteen months ago." She recited it the way you'd read a grocery list. "And Miro Sante — formerly of Union Xenobiological Survey, employment terminated, no current warrants but a notable flag on your Union exit file."
 
-*We were doing fine before you got here*, Kael thought, and immediately buried it. [NEW]
+*We were doing fine before you got here*, Kael thought, and immediately buried it.
 
 "Sante?" Kael glanced at Miro. "You said you didn't have a surname."
 
@@ -114,7 +114,7 @@ Sera listened without interruption. When he finished, she was quiet for a long t
 
 "Does that change anything for you?"
 
-"It changes the scope. Not the obligation." She straightened. "The Covenant doesn't answer to the Union. It doesn't answer to any single government. The Accord of Settled Worlds was ratified by four hundred and twelve civilizations specifically because no one nation could be trusted to police itself. If the Union has caged a sentient population, the Union will answer for it. But first — the population survives. That's Article One. Before justice, survival."
+"It changes the scope. Not the obligation." She straightened. "The Covenant doesn't answer to the Union. Never has." A pause — not for effect, but the practiced pause of someone choosing language that would hold up under cross-examination. "The Accord was ratified by four hundred and twelve civilizations for one reason: no single nation can be trusted to police itself. If the Union caged a sentient population — and the evidence strongly suggests they did — the Union answers for it. But first, the population survives. Article One. Before justice, survival."
 
 "Before justice, survival," Miro repeated softly. "I like that."
 
@@ -132,7 +132,7 @@ Sera listened, then shook her head. "You can't destroy Covenant evidence."
 
 "And if we don't destroy it, the Choir dies and something comes out of that rift that makes the cage look like a parking ticket."
 
-Sera's jaw tightened. Kael watched her weigh it — the law against the living, the procedure against the ticking clock. He'd seen that look before, on the faces of people who believed in systems. The good ones always struggled the hardest when the system and the right thing pulled in different directions.
+Sera's jaw tightened. Kael watched her weigh it — the law against the living, the procedure against the ticking clock. Two kinds of pressure, and she was the thing being crushed between them. [MOTIF] He'd seen that look before, on the faces of people who believed in systems.
 
 "There's a middle path," Miro said, stepping in with the careful diplomacy of a man who'd spent eleven years navigating bureaucracies. "I can extract the control nexus intact. Pull the whole hub — housing, fusion cells, signal architecture, designation codes. Every piece of evidence preserved, chain of custody maintained. You get your prosecution. The Choir gets to live."
 
@@ -152,7 +152,7 @@ Sera studied him. Wick's amber eyes were locked on Kael too, and he felt the owl
 
 Whatever Wick found, it must have been sufficient. The owl settled his feathers and looked away. Sera's posture shifted a fraction — still formal, still guarded, but the adversarial edge dulled.
 
-"I'll accompany you," she said. "My ship has the legal transponder codes to log the operation as an official Covenant action. Everything that happens inside that cage will be on record."
+"I'll accompany you," she said. "My ship has the legal transponder codes to log this as an official Covenant action. Everything inside that cage becomes admissible evidence the moment I'm present." She glanced at the data core. "Chain of custody starts now."
 
 "Welcome aboard," Miro said. "I'd offer you the co-pilot's seat but it has a spring that pinches."
 
@@ -220,7 +220,7 @@ Inside the cage.
 
 The Choir was everywhere.
 
-They rose around the ship like living mountains — vast translucent shapes drifting in the enclosed water, their bioluminescent filaments painting the darkness in slow, sweeping waves of blue and white. This close, inside their space, the frequency was overwhelming even through the hull. Kael felt it in his bones, in the fluid of his eyes, in the rhythm of his heartbeat syncing involuntarily to the Choir's pulse.
+They rose around the ship like living mountains — translucent, shifting, their filaments painting the darkness in waves of blue and white. This close, inside their space, the frequency was overwhelming. Kael felt it in his bones, in his heartbeat syncing involuntarily to the Choir's pulse.
 
 But there was something else now. Something he hadn't felt from the outside.
 
@@ -256,17 +256,17 @@ Kael opened his frequency. Not wide — not the full-spectrum flood of last time
 
 *We're here to remove the cage. The small one in the water — he's helping. Don't touch him.*
 
-The response came in a chord. Gentler than before — they were still dampening themselves for him, holding their vast collective voice to a whisper.
+The response came in a chord. Gentler than before — they were still dampening themselves for him, holding their collective voice to a whisper.
 
 *We understand. We will be still.*
 
-And they were. Forty-seven beings, each kilometers long, holding perfectly motionless in the dark water as one small human drifted among them. Kael felt the effort it cost them — every instinct screaming to move, to flee, to thrash against the cage that had starved them for two years. They held still because he asked. Because trust, however new, was all they had left.
+And they were. Forty-seven beings, each kilometers long, holding perfectly motionless in the dark water as one small human drifted among them. Kael felt the effort it cost them — every instinct screaming to move, to flee, to thrash against the cage that had starved them for two years. They held still because they had no choice, Kael told himself. Because when you're starving and caged, you'll trust anyone who says they're here to help. [MISJUDGMENT]
 
 Sera was watching the viewport. Wick's head swiveled slowly, tracking Miro's progress, then the Choir, then back. The owl's layered frequency was processing more data than Kael could follow — but he caught fragments. Spatial mapping. Threat assessment. Behavioral prediction. Wick was running calculations that would have taken a shipboard computer minutes.
 
 "Your owl is remarkable," Kael said, without turning from the viewport.
 
-"He's not mine. We're partners." A pause. "But yes. He is."
+"He's not mine. We're partners. The Covenant classifies it as a bilateral neural bond, if you want the filing term." A pause. "But yes. He is."
 
 "How long have you been bonded?"
 
@@ -274,7 +274,7 @@ Sera was watching the viewport. Wick's head swiveled slowly, tracking Miro's pro
 
 "The Academy said corvaxis bonding was impossible."
 
-"The Academy said a lot of things." He heard something in her voice — not defensiveness, exactly. Something closer to the weariness of having been underestimated for a long time by people who should have known better. "Wick chose me. That's how corvaxis bonding works. You don't select them. They select you. And once they do, it's permanent. Not just emotional — neurological. His frequency architecture maps onto mine. I can feel what he feels. Not the way you do — I'm not a Zoolinguist. But I know when he's alert, when he's calm, when something's wrong."
+"The Academy said a lot of things." Something in her voice — not defensiveness. The weariness of having been underestimated by people who should have known better. "Wick chose me. That's how corvaxis bonding works — you don't select them, they select you. Once they do, it's permanent." She adjusted Wick's position on her shoulder — an unconscious gesture, practiced. "Not just emotional. Neurological. His frequency architecture maps onto mine. I'm not a Zoolinguist, but I know when he's alert, when he's calm, when something's wrong."
 
 "And right now?"
 
@@ -318,13 +318,13 @@ The Choir's response came as a chord that vibrated through the hull.
 
 The ocean convulsed.
 
-Every node in the cage flared white-hot simultaneously — a lattice of blinding light expanding in all directions, the gravitic fields spiking so hard that the *Fang & Fable*'s hull screamed and the depth counter jumped two hundred meters in a heartbeat as the ship was physically compressed downward. Kael was slammed into the pilot's seat. Talon shrieked. Wick went silent — a corvaxis response to extreme stress, all energy redirected to processing.
+Every node in the cage flared white-hot simultaneously — a lattice of blinding light expanding in all directions, the gravitic fields spiking so hard that the *Fang & Fable*'s hull screamed. The depth counter jumped two hundred meters in a heartbeat. Kael was slammed into the pilot's seat, his spine compressing, his wrists buckling against the controls. The taste of ozone flooded his mouth. Something in the overhead panel cracked — a sharp, percussive snap that meant structural stress. Talon shrieked. Wick went silent — all energy redirected to processing.
 
-Sera's counter-field hit Miro's position like a fist of inverted gravity, wrapping him in a bubble of normal space while the world outside tried to crush itself flat. Four seconds. The longest four seconds of Kael's life.
+Sera's counter-field hit Miro's position like a fist of inverted gravity, wrapping him in a bubble of normal space while the world outside tried to crush itself flat. Four seconds. Kael couldn't breathe. His ribs pressed inward, and the hull groaned — a sound he'd never heard the *Fang & Fable* make, low and animal, like a ship learning what pain was.
 
 Then — darkness.
 
-The nodes burned out, one by one, like stars dying in sequence. The lattice flickered, guttered, and went black. The gravitic fields collapsed. The pressure normalized with a rush that made Kael's ears pop so hard he tasted copper.
+The nodes burned out. One by one. The lattice flickered, guttered, went black. The gravitic fields collapsed. The pressure normalized with a rush that made Kael's ears pop so hard he tasted copper.
 
 Silence.
 
@@ -332,13 +332,15 @@ Not true silence — the Choir was still singing. But the song had changed. The 
 
 *Joy.*
 
-Not human joy. Not the sharp, bright burst of relief or the warm glow of satisfaction. This was joy as architecture — a towering, multi-layered harmonic that used emotional registers Kael didn't have names for, each voice of the Choir contributing a different strand until the combined frequency was so vast and so complex that it transcended emotion entirely and became something closer to music. To prayer. To a sound the universe makes when something broken becomes whole.
+Not human joy. This was joy as architecture — a multi-layered harmonic that used emotional registers Kael didn't have names for, each voice contributing a strand until the combined frequency became something closer to music. To prayer.
 
-And it was *theirs*. Kael felt that distinction like a blade — clean and immediate. He remembered Miro's cracked rib, the eleven minutes of laughter that had been a weapon, a frequency shoved into a man's skull until his body betrayed him. This was the opposite. This was not forced, not aimed, not desperate. This was forty-seven beings feeling something so large they couldn't contain it, and the overflow washing across everything nearby like light from a star. The same species. The same capability. Used not to compel, but simply to *be*. Kael understood, then, how afraid they must have been — to have turned that gift into a weapon at all.
+And it was *theirs*. Kael felt that distinction like a blade. He remembered Miro's cracked rib, the eleven minutes of laughter that had been a weapon. This was the opposite — not forced, not aimed, not desperate. Forty-seven beings feeling something so large they couldn't contain it, the overflow washing across everything nearby like light from a star. The same capability. Used not to compel, but simply to *be*.
 
 His eyes burned. He blinked hard and said nothing.
 
-"Miro," Sera said, her voice carefully level. "Report."
+Sera's hand was on the viewport glass. She pulled it back when she saw Kael looking — a quick, sharp motion, as if the glass had burned her. Whatever she'd been reaching toward in those four seconds, she wasn't going to name it.
+
+"Miro," she said, her voice carefully level. "Report."
 
 "*Alive.*" A shaky breath through the comm. "*Counter-field held. I've got the nexus housing, the processor, the data core — all intact. Also, I think I blacked out for about one second, and when I came back, one of the Choir was looking at me.*"
 
@@ -348,7 +350,7 @@ His eyes burned. He blinked hard and said nothing.
 
 Kael felt the corner of his mouth pull. He didn't fight it.
 
-Outside the viewport, the Choir was moving. For the first time in two years, they had space. The cage was dead — a lattice of dark, inert metal drifting in the current, already being colonized by the deep-ocean organisms that had been eating it from below. The Choir unfolded, spreading out into the open water, their bioluminescent filaments extending to their full reach. The darkness lit up — blue and white and pale gold, a living galaxy of light expanding in every direction.
+Outside the viewport, the Choir was moving. For the first time in two years, they had space. The cage was dead — dark, inert metal drifting in the current, already being colonized by the organisms that had been eating it from below. The Choir unfolded into the open water, filaments extending to full reach. Blue and white and pale gold — light expanding in every direction.
 
 And beneath them, steady and unchanged, the rift remained. Sealed. Held shut by a song that was growing stronger with every passing second as the Choir fed on open water and reclaimed their strength.
 
@@ -374,7 +376,7 @@ Miro's voice came through the comm, still shaky but regaining its warmth. "*So t
 
 Kael brought the *Fang & Fable* around.
 
-Behind them, the Choir sang — free, strengthening, their ancient song pouring down into the rift like light into a crack, sealing what must not be opened. And Kael listened to them, really listened, the way only he could — and underneath the joy, underneath the gratitude, he heard the thing they hadn't told him yet.
+Behind them, the Choir sang — free, strengthening, their song pouring down into the rift like light into a crack, sealing what must not be opened. And Kael listened to them, really listened, the way only he could — and underneath the joy, underneath the gratitude, he heard the thing they hadn't told him yet.
 
 *Fear.*
 
@@ -382,8 +384,8 @@ Not of the rift. Not of the entity below.
 
 Of what was coming from above.
 
-Kael let the frequency fade and opened his eyes. Through the viewport, the Choir's light painted the water in slow, vast brushstrokes — beautiful, impossibly fragile for all its scale. He did the math the way he always did, quietly, without sharing. One ship held together by illegal solder. One Lawkeeper interceptor built for speed, not sustained combat. One xenobiologist in a damp EVA suit. One Lawkeeper who gripped consoles too hard when she thought no one was looking. A hawk and an owl who couldn't agree on anything. And forty-seven beings the size of city districts who had spent two years starving and could barely hold their song together.
+Kael let the frequency fade and opened his eyes. Through the viewport, the Choir's light painted the water — blue, white, pale gold. He did the math the way he always did, quietly, without sharing. One ship held together by illegal solder. One Lawkeeper interceptor built for speed, not sustained combat. One xenobiologist in a damp EVA suit. One Lawkeeper who gripped consoles too hard when she thought no one was looking. A hawk and an owl who couldn't agree on anything. And forty-seven beings the size of city districts who had spent two years starving and could barely hold their song together.
 
-Against the Thirty-First Strategic Fleet. A ghost division with black-budget warships and the institutional will to cage a sentient species for a weapon.
+Against the Thirty-First Strategic Fleet.
 
-He'd had worse odds. He was almost sure of it. But sitting in the pilot's seat of the *Fang & Fable*, listening to the song of something ancient and grateful and afraid, he couldn't remember when.
+Kael put his hands on the controls. Above them, the ocean went on forever. Below, the Choir sang.

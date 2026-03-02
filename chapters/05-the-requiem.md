@@ -60,13 +60,13 @@ Miro's hand pressed harder against the glass.
 
 The Choir gathered.
 
-They came slowly — vast shapes converging from all directions, their bioluminescent filaments dimming to a soft, low glow as they drew close. Something quieter than communication. Something that needed no translation.
+They came slowly — shapes converging from all directions, their filaments dimming to a low glow as they drew close. Something quieter than communication.
 
-They formed a ring. Forty-six beings, the smallest still larger than a starship, arranging themselves in a perfect circle around the forty-seventh. Their filaments reached inward, not quite touching the dying member but close — close enough that the light from their bodies merged at the center, creating a soft luminous haze that wrapped around the Note Between like a cocoon.
+They formed a ring. Forty-six beings arranging themselves in a perfect circle around the forty-seventh. Their filaments reached inward, not quite touching — close enough that the light merged at the center, wrapping the Note Between like a cocoon.
 
 And then they sang.
 
-Not the distress signal. Not the joyful explosion that had followed the cage's fall. This was something older — a song that Kael could tell, even through the filter of his human mind, had been sung before. Many times. Over millennia. A song with a structure worn smooth by repetition the way river stones are worn smooth by water, every phrase landing in a place that had been shaped by all the voices that had come before.
+Not the distress signal. Not the joy that had followed the cage's fall. Something older. A song that had been sung before — many times, over millennia. Its structure worn smooth by repetition the way river stones are worn smooth by water, every phrase landing in a place shaped by all the voices that had come before.
 
 A requiem.
 
@@ -74,9 +74,9 @@ Kael sat cross-legged on the cockpit floor, his palms flat on the deck plates, h
 
 The song was not sad.
 
-Each voice in the ring was singing not just its own note but fragments of the Note Between's frequency — pieces of the dying member's harmonic signature, woven into their own songs, distributed across the collective. They were taking the dying voice into themselves. Not saving it. Not preserving it like a recording. *Absorbing* it — letting it change them, letting it modify their own frequencies the way the Note Between had modified the Choir's harmony for all the long millennia it had sung.
+Each voice in the ring was singing fragments of the Note Between's frequency — pieces of the dying member's harmonic signature, woven into their own songs, distributed across the collective. Not saving it. Not preserving it like a recording. *Absorbing* it — letting it change them, the way the Note Between had changed the Choir's harmony for all the millennia it had sung.
 
-The dying member would be gone. But every surviving voice would carry a piece of its resonance forever. The chord would change. The song would be different. But the Note Between would still be there — distributed, transformed, alive in the spaces between forty-six voices that would never again sound quite the way they had before.
+The dying member would be gone. But every surviving voice would carry a piece of its resonance. The chord would change. The Note Between would still be there — distributed, transformed, alive in the spaces between forty-six voices that would never again sound quite the way they had before.
 
 The way a teacher lives on in every student who teaches differently because of them. The way a parent's laugh shows up in a child's laugh thirty years later, unplanned, unmistakable.
 
@@ -94,7 +94,7 @@ Then Wick pressed his head against her jaw, and she closed her eyes. Just for a 
 
 The Note Between died at hour fifty-nine.
 
-Its bioluminescence faded last — the filaments going dark in slow sequence, like lights turning off in the windows of a building, floor by floor, until the final glow winked out and there was only a vast dark shape, still and silent in the center of the ring.
+Its bioluminescence faded last — the filaments going dark in slow sequence, like lights turning off in the windows of a building, floor by floor, until the final glow winked out and there was only a dark shape, still and silent in the center of the ring.
 
 The Choir held their positions. The requiem didn't end. It shifted — the harmonic adjusting in real time as forty-six voices recalibrated around the absence, finding new intervals, new balances. It was like watching a cathedral lose a pillar and remain standing.
 
@@ -206,7 +206,7 @@ Eight vessels, in a staggered combat descent, their gravitic signatures burning 
 
 "The Thirty-First," Sera said. Her hand stayed at her side, but Kael saw her fingers close into a fist. "Eight ships. Escort-class and above. At least two heavy cruisers."
 
-Miro looked at the display. Then at Kael. Then at the viewport, where forty-six ancient beings sang their wounded song above an abyss that wanted to swallow the stars.
+Miro looked at the display. Then at Kael. Then at the viewport, where forty-six beings sang their wounded song above the abyss.
 
 "So," he said. And for the first time since Kael had known him, the joke didn't come.
 
@@ -224,6 +224,6 @@ Kael took a breath. The Choir's song pressed against the hull. He could feel all
 
 *Trust.*
 
-"We do what we came here to do," Kael said. He put his hands on the controls. "We protect them."
+"We stay," Kael said. He put his hands on the controls. "We keep them alive."
 
-Outside, the ocean darkened above them as eight warships descended. And below, the rift pulsed once — just once — as if something in the deepest dark had felt the song grow thinner and was, for the first time in millennia, beginning to hope.
+Outside, the ocean darkened above them as eight warships descended. And below, the rift pulsed once — just once — and the water around it went still.

@@ -40,7 +40,7 @@ The Choir was one of these. Beings that existed in Covenant records as a footnot
 
 Kael was asking it now.
 
-He sat cross-legged on the deck, palms flat, frequency wide open. Not aimed at the Choir this time — aimed *past* them, into the deep water, into the frequency channels the requiem had traveled. He was listening for echoes. For answers. For the thing that happened when an ancient song reached ancient ears.
+He sat cross-legged on the deck, palms flat, frequency wide open. Not aimed at the Choir this time — aimed *past* them, into the deep water, into the frequency channels the requiem had traveled. He was listening for echoes. For answers. For the thing that happened when a deep song reached deep ears.
 
 His nose bled. His vision blurred. Talon pressed against his shoulder, her frequency a lifeline — the bright, sharp copper that kept his identity tethered when the ocean's vast signal threatened to dissolve it.
 
@@ -48,7 +48,7 @@ And there, at the very edge of his range — so faint it was less a sound than a
 
 A response.
 
-Not from below. Not from the rift. From *beyond* — from out past the continental shelf, past the abyssal plain, from somewhere in the deep galaxy that no Covenant map had ever charted. A frequency that rhymed with the Choir's the way a grandmother's voice rhymes with a grandchild's. The same harmonic family. The same ancient roots. But older. Deeper. Rougher, like a voice that had been singing for so long it had worn grooves into the fabric of space itself.
+Not from below. Not from the rift. From *beyond* — from out past the continental shelf, past the abyssal plain, from somewhere in the deep galaxy that no Covenant map had ever charted. A frequency that rhymed with the Choir's the way a grandmother's voice rhymes with a grandchild's. The same harmonic family. The same deep roots. But older. Deeper. Rougher, like a voice that had been singing for so long it had worn grooves into the fabric of space itself.
 
 "Someone heard," Kael said, opening his eyes. Blood ran from both nostrils. He didn't wipe it. "Someone is coming."
 
@@ -60,7 +60,7 @@ Not from below. Not from the rift. From *beyond* — from out past the continent
 
 The Thirty-First arrived first.
 
-They came through the water column in combat formation — eight ships, dark-hulled and angular, their gravitic drives cutting through the ocean like heated blades. Two Crucible-class heavy cruisers at the center, each one a hundred and sixty meters of armored malice. Four Stilletto escort frigates flanking in pairs, fast and sharp, designed for exactly this kind of containment operation. And two Veil-class sensor ships hanging back, painting the deep with targeting arrays that lit up the *Fang & Fable*'s threat board like a festival.
+They came through the water column in combat formation. Eight ships, dark-hulled and angular. Their gravitic drives cut through the ocean like heated blades. Two Crucible-class heavy cruisers at the center, each one a hundred and sixty meters of armored malice. Four Stilletto escort frigates flanking in pairs, fast and sharp, designed for exactly this kind of containment operation. And two Veil-class sensor ships hanging back, painting the deep with targeting arrays that lit up the *Fang & Fable*'s threat board like a festival.
 
 They didn't hail. They didn't warn. They simply arrived, spread into a suppression pattern around the Choir's position, and began charging weapons.
 
@@ -68,7 +68,7 @@ They didn't hail. They didn't warn. They simply arrived, spread into a suppressi
 
 "They're going to kill them from range," Kael said. "Without ever getting close enough to see what they're killing."
 
-"That's how it works." Sera's jaw was tight. "Classified operations don't have faces. They have coordinates."
+"That's how it works." Sera's jaw was tight. "You don't have to see what you're killing if you call it a coordinate set."
 
 Wick's frequency flared — a sharp, urgent burst that Kael read as *incoming communication.* A channel opened on the comm, tight-beam, encrypted with Union military protocols that Sera's Lawkeeper codes sliced through automatically.
 
@@ -126,17 +126,17 @@ The ocean floor shook.
 
 They came from the deep trenches — from the unmapped canyons and abyssal fractures that no Covenant survey had ever reached, from the places where the galaxy's oldest things lived in patient, watchful silence. They came because the requiem had reached them. Because the Choir's death-song had traveled along frequency channels older than starlight, and at the other end of those channels, someone had been listening. Someone had always been listening.
 
-They were not the Choir. They were something else — something related but different, the way a wolf is related to but different from a dog. Where the Choir was luminous, fluid, graceful, these beings were rough and dark and scarred, their bodies dense with age, their bioluminescence not the Choir's soft blue-white but a deep, slow amber — the color of old fires, of embers that had been burning for longer than anyone had bothered to count. They were smaller than the Choir, most of them — hundreds of meters rather than kilometers — but they moved with a heaviness that had nothing to do with size and everything to do with time. They moved the way mountains would move if mountains decided they'd had enough.
+They were not the Choir. Something related but different, the way a wolf is related to a dog. Where the Choir was luminous and fluid, these beings were rough and dark and scarred, their bodies dense with age, their glow not blue-white but a deep, slow amber — the color of old fires. Smaller than the Choir, most of them — hundreds of meters rather than kilometers — but they moved with a heaviness that had nothing to do with size. They moved the way mountains would move if mountains decided they'd had enough.
 
 And riding them — *on* them, in them, growing from them like barnacles on ancient hulls — were structures. Organic platforms, calcified over millennia, shaped by hands and tools and intention. And on those platforms, standing in the deep water in suits that were not quite EVA gear and not quite skin, breathing through membranes that pulsed with their own gentle rhythm, were people.
 
 Old people.
 
-Men and women and others who didn't fit either category, their faces lined and weathered, their eyes bright. Their suits were patched and worn and covered in the accumulated markings of decades — frequency sigils, species glyphs, navigational tattoos that mapped routes no jump-gate had ever serviced. Some of them carried tools. Some carried instruments that Kael didn't recognize. One — a woman at the front of the largest platform, her white hair streaming in the current, her face a map of laugh lines and scar tissue — carried nothing at all. She didn't need to. The frequency coming off her was so powerful, so layered, so dense with experience and authority that Kael could feel it through the hull like a physical weight.
+Men and women and others who didn't fit either category, faces lined and weathered, eyes bright. Their suits were patched and covered in the accumulated markings of decades — frequency sigils, species glyphs, navigational tattoos that mapped routes no jump-gate had ever serviced. One — a woman at the front of the largest platform, her white hair streaming in the current, her face a map of laugh lines and scar tissue — carried nothing at all. The frequency coming off her was so powerful, so dense with experience that Kael could feel it through the hull like a physical weight.
 
 He knew what she was. What they all were.
 
-Listeners. Frequency-listeners, like him — but not like him. Not trained by the Academy, not certified by the Covenant, not registered in any database that the Union or the Lawkeepers or anyone else maintained. These were the ones who had walked away from the mapped sectors entirely. The ones who had gone into the deep galaxy and never come back. The ones the Academy called "lost" and the Union called "rogue" and who called themselves nothing at all, because when you've spent forty years living alongside beings older than your species, names feel like a very small idea.
+Listeners. Not trained by the Academy, not certified by the Covenant, not registered in any database. The ones who had gone into the deep galaxy and never come back. The Academy called them "lost." The Union called them "rogue." They called themselves nothing at all.
 
 The old guard. The deep listeners.
 
@@ -156,11 +156,11 @@ Miro was staring, his mouth open. "Are those — are those *people?* On the — 
 
 "So did I."
 
-Sera's hand tightened on the rail. "Forty-three people operating outside Covenant jurisdiction. No registration. No oversight. No legal mandate for any of this." She said it quietly, almost to herself, and Kael heard the discomfort in it — not fear, not hostility, just the instinctive friction of a woman whose entire life was built on frameworks encountering something that existed outside all of them. It bothered her. He could tell it bothered her more than the incoming fleet, which was irrational, and he could tell she knew it was irrational, and it bothered her anyway. Then Wick shifted on her shoulder — a small, deliberate settling of weight — and his frequency pulsed once, low and steady. Whatever the owl communicated, it was enough. Sera's grip eased. She didn't mention it again. [NEW]
+Sera's hand tightened on the rail. "Forty-three people operating outside Covenant jurisdiction. No registration. No oversight. No legal mandate for any of this." She said it quietly, almost to herself, and Kael heard the discomfort in it — not fear, not hostility, just the instinctive friction of a woman whose entire life was built on frameworks encountering something that existed outside all of them. It bothered her. He could tell it bothered her more than the incoming fleet, which was irrational, and he could tell she knew it was irrational, and it bothered her anyway. Then Wick shifted on her shoulder — a small, deliberate settling of weight — and his frequency pulsed once, low and steady. Whatever the owl communicated, it was enough. Sera's grip eased. She didn't mention it again.
 
 Captain Dahl's thirty seconds expired. It didn't matter.
 
-The deep listeners' mounts — Kael didn't have a better word for them, though *mount* felt absurdly small for what they were — rose from the trenches in a formation that was not military but something older. A pattern that matched the Choir's ring, that echoed the shape of the requiem's harmonic structure. They positioned themselves between the Thirty-First's fleet and the Choir with the unhurried confidence of people who had done this before. Not this exactly — not this ocean, not this fleet — but this *kind* of thing. They had stood between the ancient and the violent before. It was, Kael realized, what they did. What they had always done. Out there in the unmapped dark, while the Covenant filed paperwork and the Union built cages, these people had been standing on the backs of old gods and saying *no.*
+The deep listeners' mounts — Kael didn't have a better word for them, though *mount* felt absurdly small for what they were — rose from the trenches in a formation that was not military but something older. A pattern that matched the Choir's ring, that echoed the shape of the requiem's harmonic structure. They positioned themselves between the Thirty-First's fleet and the Choir with the unhurried confidence of people who had done this before. Not this exactly — not this ocean, not this fleet — but this *kind* of thing. They had stood between the old and the violent before. It was, Kael realized, what they did. What they had always done. Out there in the unmapped dark, while the Covenant filed paperwork and the Union built cages, these people had been standing on the backs of old gods and saying *no.*
 
 The white-haired woman's frequency hit the fleet.
 
@@ -184,7 +184,7 @@ Kael flew the *Fang & Fable* through the chaos with his teeth clenched and his h
 
 Sera's interceptor was another matter entirely. The Lawkeeper ship moved like a blade — fast, precise, lethal in ways that had nothing to do with weapons. She was broadcasting on every Covenant emergency frequency simultaneously, Wick's layered channels amplifying the signal until it punched through the fleet's jamming like a fist through paper. The legal record was being made in real time. Every lance strike, every order, every violation of Covenant law — documented, encrypted, transmitted on burst channels toward the nearest relay.
 
-"Two Veil-class sensors are trying to jam my transmission," Sera called over the comm. "If they succeed, we lose the legal record."
+"Two Veil-class sensors are trying to jam my transmission," Sera called over the comm. "If they succeed, we lose the evidentiary record. Everything we've documented becomes, in all probability, inadmissible."
 
 "On it," Kael said, and threw the *Fang & Fable* at the nearest sensor ship.
 
@@ -198,15 +198,15 @@ But it was in the frequency dimension that the real battle was fought.
 
 The deep listeners sang.
 
-Not the requiem. Not the Choir's ancient melody. Something new — a war-song, if war-songs could be beautiful and terrible at the same time. Forty-three human voices, augmented by eighteen ancient beings, channeling a collective frequency that Kael felt in his marrow. It was not an attack — not exactly. It was a *wall.* A harmonic barrier, a frequency so dense and so precisely calibrated that the gravitic lances lost coherence when they passed through it. The weapons designed to kill the Choir struck the barrier and *dissolved* — their energy scattered, refracted, turned from focused beams into diffuse light that washed over the Choir's bodies without harm.
+Not the requiem. Not the Choir's melody. Something new — a war-song, if war-songs could be beautiful and terrible at the same time. Forty-three human voices augmented by eighteen beings older than starlight, channeling a collective frequency that Kael felt in his marrow. Not an attack — not exactly. A *wall.* A harmonic barrier so dense that the gravitic lances lost coherence passing through it. The weapons designed to kill the Choir struck the barrier and *dissolved* — energy scattered, refracted, turned from focused beams into diffuse light that washed over the Choir without harm.
 
-The white-haired woman was the anchor. Kael could feel her at the center of the harmonic wall, her frequency the foundation on which forty-two others built. But she was old, and the effort was enormous, and he could hear the strain in her signal the way you hear a bridge creaking under too much weight.
+The white-haired woman was the anchor — her frequency the foundation on which forty-two others built. She was old, and the effort was enormous. Kael could hear the strain the way you hear a bridge creaking under too much weight.
 
-The Choir added their voices. Forty-six — no longer forty-seven — threading their ancient harmonics into the deep listeners' wall, strengthening it, filling the gaps with frequencies that only they could produce. The combined sound was staggering. Kael's frequency-sense overloaded and reset twice, his brain struggling to process a signal that existed on more layers than human neurology was designed to handle.
+The Choir added their voices. Forty-six — no longer forty-seven — threading their harmonics into the deep listeners' wall, filling gaps with frequencies only they could produce. The combined sound was staggering. Kael's frequency-sense overloaded and reset twice.
 
-He flew by instinct when that happened. Flew blind, by feel, by the copper thread of Talon's frequency and the muscle memory of ten thousand hours in this cockpit. His mouth was so dry his tongue stuck to his teeth. There was a water bottle in the storage net behind the seat and he could not reach it and it was, absurdly, the thing that bothered him most. [NEW]
+He flew by instinct when that happened. Flew blind, by feel, by the copper thread of Talon's frequency and the muscle memory of ten thousand hours in this cockpit. His mouth was so dry his tongue stuck to his teeth. There was a water bottle in the storage net behind the seat and he could not reach it and it was, absurdly, the thing that bothered him most.
 
-One of the heavy cruisers — the *Indomitable*, according to Sera's tactical feed — changed tactics. Instead of firing through the harmonic wall, it began to circle, searching for a gap. Its captain was smart. The wall couldn't be everywhere at once. The deep listeners had to concentrate their strength, and the Choir had to maintain their position above the rift. There were flanks. There were angles. And the *Indomitable* was finding them.
+One of the heavy cruisers — the *Indomitable*, according to Sera's tactical feed — changed tactics. Instead of firing through the harmonic wall, it began to circle, searching for a gap. Pressure always found the weak point. [MOTIF] The wall couldn't be everywhere at once. The deep listeners had to concentrate their strength, and the Choir had to maintain their position above the rift. There were flanks. There were angles. And the *Indomitable* was finding them.
 
 "Northern arc," Sera called. "The cruiser is moving to flank. If it gets past the barrier —"
 
@@ -234,7 +234,7 @@ A man — old, thin, his suit covered in frequency sigils so faded they were bar
 
 The white-haired woman's frequency surged. She patched the wall alone, holding the gap with raw, individual power that Kael felt like a physical blow — the effort of it staggering, unsustainable, the kind of thing that burns years off a person's life. Two other mounts converged on the wounded creature, their riders reaching for the man in the water. They pulled him onto a neighboring platform. He was alive. But his frequency — Kael could feel it — had gone dim. Not dead. Not gone. But diminished, the way a bell sounds after it's been cracked. He would live. He would not sing the same way again.
 
-The wounded mount listed downward, its amber glow fading to a dull pulse. It would survive — these creatures were ancient, and ancient things are hard to kill — but the scar would be permanent. A patch of dead tissue, lightless and silent, where the lance had burned through. It would carry that wound the way the Choir carried the Note Between's absence — not as a weakness but as a cost. The price of standing between.
+The wounded mount listed downward, its amber glow fading to a dull pulse. It would survive — these creatures had endured longer than empires, and old things are hard to kill — but the scar would be permanent. A patch of dead tissue, lightless and silent, where the lance had burned through. It would carry that wound the way the Choir carried the Note Between's absence — not as a weakness but as a cost. The price of standing between.
 
 ---
 
@@ -334,9 +334,9 @@ Talon stirred on her perch and opened one eye. Her crest rose — the faintest c
 
 "Not yet," he said. "But soon."
 
-Through the viewport, the deep ocean glowed. Blue and white and amber and gold — two choruses, old and older, weaving their songs together above the rift. Forty-six and eighteen. The ancient and the ancient's ancient. And somewhere in the harmony, in a gap that had been empty since the forty-seventh voice went silent, Kael's own frequency still hummed — small, human, stubbornly present. Changed.
+Through the viewport, the deep ocean glowed. Blue and white and amber and gold — two choruses, old and older, weaving their songs together above the rift. Forty-six and eighteen. And somewhere in the harmony, in a gap that had been empty since the forty-seventh voice went silent, Kael's own frequency still hummed — small, human, stubbornly present. Changed.
 
-The detective in his novel would have had a line for this. Something wry, something clever, something that tied the impossible up in a bow. Kael didn't have a line. He had a cup of bad coffee, a bleeding nose, a frequency-sense that would never work the same way again, and the distant, impossible sound of someone else calling for help from the other side of the galaxy.
+He had a cup of bad coffee, a bleeding nose, a frequency-sense that would never work the same way again, and the distant, impossible sound of someone calling for help from the other side of the galaxy.
 
 Eleven cages. Nine worlds.
 
