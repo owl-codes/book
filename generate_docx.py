@@ -18,6 +18,7 @@ CHAPTER_FILES = [
     "05-the-requiem.md",
     "06-the-old-guard.md",
     "07-the-forty-seventh.md",
+    "08-the-frequency.md",
 ]
 
 
