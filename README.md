@@ -1,10 +1,14 @@
-# Book
+# The Wildtongue Agent
 
-Welcome! This is a collaboratively written book, built chapter by chapter.
+**An intergalactic science fiction story**
+
+A lone agent roams the furthest reaches of the galaxy — specialist in futuristic weaponry, fluent in the languages of every living creature, from the wolves of Old Earth to the luminous hive-minds of the Crellan Nebula. When diplomacy fails, the weapons speak. When weapons fail, the animals listen.
+
+---
 
 ## Table of Contents
 
-*(Chapters will be added here as we write them.)*
+1. [Chapter 1 — The Frequency](chapters/01-the-frequency.md)
 
 ---
 
@@ -14,8 +18,8 @@ Each chapter lives in the `chapters/` directory as its own Markdown file:
 
 ```
 chapters/
-  01-chapter-title.md
-  02-chapter-title.md
+  01-the-frequency.md
+  02-...
   ...
 ```
 
