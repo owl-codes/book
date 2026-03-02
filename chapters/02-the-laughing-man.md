@@ -74,6 +74,10 @@ Kael took a sip. It tasted exactly as bad as promised. "How did you find this pl
 
 "Same way you did. I heard them." Miro tapped his temple. "I'm not a frequency-listener like you — no Academy training, no fancy Zoolinguistics degree. But I spent eleven years as a Union xenobiologist before they defunded my department, and I've got good ears. Something was wrong out here. I came to see what."
 
+"Defunded," Kael repeated.
+
+"Dissolved, actually. Overnight. I was studying non-verbal sentience markers in deep-ocean megafauna. Kept filing reports that said certain species met the threshold for protected status." He smiled, but it was a different smile than the others — thinner, with teeth. "Turns out some of those species were swimming over mineral deposits the Union had already sold extraction rights to. Funny how that works."
+
 He pulled up a holographic display. The ocean of Erythis-3 rendered in pale blue, and deep within it — far below their current position — a cluster of massive shapes drifted in slow, circular patterns.
 
 "I call them the Choir," Miro said, his voice softening for the first time. "Forty-seven individuals. Largest is over three kilometers long."
@@ -98,6 +102,8 @@ Kael felt it even now. The pulse. *Trapped.*
 
 Miro looked at him — really looked at him, the grin momentarily gone, something raw and stubborn underneath. "Because nobody else came."
 
+Kael said nothing. But he knew the type. He'd met them on burned-out stations and collapsing colony domes — the ones who could have left and didn't. Not because they were brave. Because leaving would have cost them something they weren't willing to pay. He'd answered the signal for the same reason, if he was honest. You hear something drowning and you go. That's not heroism. That's just the tax on being able to listen.
+
 The grin returned immediately, like a door swinging shut. "Until you, obviously. The cavalry. The big man with the big gun and the telepathic bird. Very cinematic. I assume there's a plan?"
 
 "I just got here."
@@ -116,9 +122,11 @@ He pulled up a second display. Signal logs, nine days' worth, annotated in Miro'
 
 "The Choir isn't just sending a distress call. They're sending a *countdown*. And based on my best math—" He tapped a number in the corner of the display, blinking red. "We've got about seventy-two hours before whatever they're counting down to reaches zero."
 
+Kael's jaw tightened. He'd studied the old records — back on Old Earth, when a whale pod beached, the survivors had seventy-two hours before their own body weight began crushing their internal organs. Without water to distribute the load, gravity became the killer. Whales didn't starve. They suffocated under themselves. And when one died, the pod's communication fractured, panic cascaded, and more beached. Seventy-two hours wasn't arbitrary. It was biological. Whatever the Choir was counting down to, their bodies knew the math even if their minds didn't.
+
 "What happens at zero?"
 
-Miro shrugged, but his eyes weren't smiling anymore. "Don't know. But I can tell you this — the Choir's frequency gets louder every hour. And three days ago, I laughed for the first time since I got here. Not because anything was funny. Because they *made* me. One of them pushed a frequency into my head and I laughed for eleven minutes straight. Couldn't stop. Couldn't breathe. I thought I was going to die."
+Miro shrugged, but his eyes weren't smiling anymore. "Don't know. But I can tell you this — the Choir's frequency gets louder every hour. And three days ago, I laughed for the first time since I got here. Not because anything was funny. Because they *made* me. One of them pushed a frequency into my head and I laughed for eleven minutes straight. Couldn't stop. Couldn't breathe. Cracked a rib." He pulled the collar of his jumpsuit aside — just an inch — and Kael saw the bruise, a deep purple bloom spreading across his lower left side. "Still hurts when I inhale. I thought I was going to die."
 
 He let that sit.
 
