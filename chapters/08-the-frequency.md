@@ -2,21 +2,17 @@
 
 The entity's argument was simple.
 
-*You are alone.*
+*You are alone. Connection is noise. The bonds you treasure are interference. Let them go. Let it all go quiet.*
 
-It worked through his mind the way water works through stone — not breaking, just finding every crack and filling it. Kael felt his memory of Talon's fledgling weight thin to almost nothing. The sound of Miro's laugh flattened into data. The Choir's song became geometry without warmth — architecture he could perceive but no longer feel.
+It worked through his mind the way water works through stone — not breaking, just finding every crack and filling it. His memory of Talon's fledgling weight thinned to almost nothing. Miro's laugh flattened into data. The Choir's song became geometry without warmth.
 
 The copper thread was a filament. A rumor.
-
-*Connection is noise. The bonds you treasure are interference. Let them go. Let it all go quiet.*
 
 And Kael — inside the seal, inside the song, inside the silence that wanted to be the only thing left — did the only thing he had ever been trained to do.
 
 He listened.
 
-Not to the argument. To what was underneath. The way you listen past the words of a distress call to find the frequency beneath — the emotional architecture that tells you what the signal really means.
-
-The Academy had taught him this with animals. With species so alien their cognition shared nothing with his own. First lesson: when you can't understand, listen harder. Second lesson: everything that communicates is telling you what it needs.
+Not to the argument. To what was underneath. The way you listen past the words of a distress call to find the frequency beneath.
 
 The entity was not attacking.
 
@@ -24,13 +20,9 @@ It was describing.
 
 Itself.
 
-Kael stopped resisting. Not surrender — something finer than that. He stopped pushing against the silence and let it be what it was. And in the space that opened between effort and its absence, he heard the entity clearly for the first time.
+Kael stopped resisting. Not surrender — something finer. He stopped pushing against the silence and let it be what it was. And in the space that opened, he heard the entity clearly for the first time.
 
-It was alone.
-
-Not alone the way a person is alone in a room. Alone the way a law of physics is alone. Fundamental. Structural. Unchangeable. Its nature was severance the way the Choir's nature was connection. Not a weapon. A condition. It did what it was. The way fire burns. The way silence spreads.
-
-And beneath the isolation — so far down that millennia of contact with the Choir's seal had never reached it — the entity was afraid. Not of the Choir. Not of Kael. Afraid of its own permanence. The deep, wordless terror of a thing that cannot change, cannot reach, cannot touch, and knows this with the clarity of an intelligence older than light.
+It was alone. Not alone the way a person is alone in a room. Alone the way a law of physics is alone. Its nature was severance the way the Choir's nature was connection. Not a weapon. A condition. It did what it was. The way fire burns. The way silence spreads.
 
 *You are alone*, it said.
 
@@ -38,21 +30,23 @@ But what Kael heard, underneath, in the frequency beneath the frequency, was: *I
 
 This didn't make it less dangerous. A fire that burns because burning is its nature is still a fire. You don't fight it with anger. You fight it with a threshold — a line where burning meets not-burning and neither crosses.
 
-The Note Between had understood this. The name itself said it — the voice that held the interval, the frequency between two others. Not resolving dissonance. Not eliminating it. Holding the space where dissonance and harmony met without either one consuming the other.
+The Note Between had understood this. The name itself said it — the voice that held the interval. Not resolving dissonance. Holding the space where dissonance and harmony met without either one consuming the other.
 
 The seal didn't need to be a wall. Walls crack. Walls have gaps. A threshold holds because both sides lean against it.
 
-Kael let his frequency settle into the space between — the Choir's connection on one side, the entity's isolation on the other — and he held. Not with force. With presence. The way you hold a doorframe. The way a frequency holds the space between silence and sound.
+Kael let his frequency settle into the space between — the Choir's connection on one side, the entity's isolation on the other — and he held. Not with force. With presence.
 
 The entity pressed.
 
 Kael held.
 
-The entity pressed harder — and Kael felt it, the full weight of something that had been alone since before the first star burned, pressing against a single human mind the way an ocean presses against a stone. He held. Not because he was strong enough. Because holding was what thresholds do.
+The entity pressed harder.
 
-The seal stabilized. Not locked, not rigid — *balanced*. The harmonic variance didn't drop to zero. It found equilibrium. A living tension. The kind of structure that holds not because it's unbreakable but because it's in constant, honest negotiation with the forces on either side.
+Kael held. Not because he was strong enough. Because holding was what thresholds do.
 
-The entity's presence dimmed. Not defeated. Not gone. Met. For the first time in its existence, something had heard it and held the line not with opposition but with understanding, and it had no framework for what that meant.
+The seal stabilized. Not locked, not rigid — *balanced*. A living tension between forces that would never resolve, only negotiate.
+
+The entity's presence dimmed. Not defeated. Not gone. Met.
 
 The silence stopped pressing.
 
@@ -232,9 +226,9 @@ Kael sat in the cockpit of the *Fang & Fable*, boots up on the console, a cup of
 
 He read them.
 
-The detective confronted the lawyer in the clock tower. There was a speech about justice. A gunshot that turned out to be a clock striking midnight. The lawyer confessed — not because the evidence was overwhelming but because the detective had listened long enough to hear the guilt underneath the argument. The detective walked out into the rain and said something about truth being the only frequency that doesn't decay, which was the kind of line that only worked in novels and sounded better than it held up.
+The detective confronted the lawyer in the clock tower. The clock struck midnight. The lawyer confessed — not out of guilt, not because the evidence cornered him, but because he was tired. Done lying. That was it. No speech. No revelation. The detective stood there in the rain and the novel ended, and Kael sat for a moment with the mild dissatisfaction of a man who'd carried a book across six systems for an ending that simply stopped.
 
-He closed the book. Set it on the console. Done. Maybe he'd find another on the next station. Something longer. Something without a detective — he'd had enough of impossible cases for a while.
+He closed the book. Set it on the console. Maybe he'd find another on the next station. Something longer.
 
 Talon shifted on her perch.
 

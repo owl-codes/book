@@ -40,7 +40,13 @@ The old woman was quiet for a moment. Behind her, two of her deep listeners were
 
 Miro leaned forward from the secondary console. He'd been running comparative scans on the Choir's frequency output for the last four hours, and the data on his screen told the same story the old woman was telling. "She's right. I'm seeing a three-percent harmonic variance at the position where the Note Between sang. The other forty-six are compensating, but there's a resonance node that none of them can fully occupy. It's like — imagine a forty-seven-piece orchestra playing a piece written for forty-seven instruments. You lose one. The others can cover, improvise, fill in. But there's a frequency only that instrument produced. And the silence where it should be isn't silence. It's a hole."
 
-"How long?" Kael asked.
+"Can you offset the node with —" Kael started, then stopped. Miro was looking at him.
+
+"I didn't ask anything," Miro said.
+
+A beat of silence. Kael pressed a knuckle against his temple.
+
+"Right. Sorry. How long?"
 
 The old woman and Miro exchanged a look through the display — the unlikely communion of a rogue deep listener and a Union xenobiologist, united by data.
 
@@ -63,6 +69,8 @@ She was at the secondary console, Wick perched on the headrest beside her, when 
 Kael felt the weight of it. Names. Badge numbers. Not abstract condemnations but specific people, held to specific account.
 
 "But," he said.
+
+Kael's head turned — a sharp involuntary jerk toward the port bulkhead. Something deep in the ocean, below any range he'd had a week ago, had cut across his awareness and vanished. Miro glanced at him. Kael shook his head — *nothing* — and looked back at Sera.
 
 "But." Sera set the display down. Wick shifted on the headrest, his amber eyes tracking her hands. "The Union has filed a counter-motion. They're invoking the Existential Defense Framework — Article One Hundred and Forty-Four of the Accord's emergency provisions. It's never been used. Not once, in the entire history of the Covenant."
 
@@ -148,8 +156,6 @@ He could hear it now — really hear it, not the filtered secondhand impression 
 
 It wasn't mindless. It wasn't rage, wasn't hunger, wasn't malice. It was *absence* — a frequency that was the precise inverse of everything the Choir produced. Where they connected, it severed. Where they harmonized, it isolated. Where they reached toward other living things, it withdrew.
 
-*It doesn't kill you. It just makes you alone.*
-
 And it was almost through.
 
 ---
@@ -210,7 +216,9 @@ It felt like *goodbye said sideways, hoping it won't be heard.*
 
 "If I'm inside the seal, physical contact won't be enough. You'll need Talon. Her frequency is the only thing that's ever cut through the Choir's signal. She's my tether."
 
-He looked at the hawk. She looked back. The new frequency — the *goodbye* — shifted. Became something fiercer. Not goodbye. *I'll come get you.*
+He looked at the hawk and pushed a narrow-channel pulse — the simple *I trust you* he'd sent a thousand times. It came out wide, the focused beam scattering into overlapping harmonics. Talon received it but tilted her head — the look she gave him was the hawk equivalent of someone straining to parse a mumble.
+
+She looked back. The new frequency — the *goodbye* — shifted. Became something fiercer. Not goodbye. *I'll come get you.*
 
 "And if Talon can't reach you?" Miro asked.
 
