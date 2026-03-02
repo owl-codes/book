@@ -16,7 +16,7 @@ He blinked. Looked up. "Sorry. I was — when the gravity spiked, one of them mo
 
 "I know. That's the part I can't —" He stopped. Pressed his palms against his eyes. "I'm fine. I'm going to be fine. I just need a minute to be a person who isn't fine, and then I'll go back to being fine."
 
-Kael sat down across from him. He didn't say anything. Didn't offer comfort or wisdom or distraction. He just sat, the way Talon sometimes sat with him after a difficult contact — present, silent, close enough to matter.
+Kael sat down across from him. He didn't say anything. He just sat, the way Talon sometimes sat with him after a difficult contact.
 
 After a while, Miro lowered his hands. His eyes were red but dry.
 
@@ -40,7 +40,7 @@ Sera stood at the viewport. Wick was on her shoulder, perfectly still, his amber
 
 He didn't finish. He didn't need to.
 
-Miro stood and walked to the viewport. He put his hand on the glass — a small, useless gesture, human and instinctive, reaching toward something he couldn't touch.
+Miro stood and walked to the viewport. He put his hand on the glass.
 
 "Does it have a name?" he asked.
 
@@ -48,19 +48,19 @@ Kael opened his frequency. Gently. A narrow channel, as careful as he could make
 
 The response came not from the dying member but from the collective — all forty-six healthy voices answering at once, wrapping the question in a chord so tender that Kael had to grip the armrest to stay present. They didn't use names the way humans did. Identity in the Choir was not a label but a *position* — a harmonic role, the specific note each individual contributed to the collective song. What they sent him was not a word but a sound: the exact frequency this member had sung for longer than human civilization had existed. A note that fit between two others the way a keystone fits in an arch — the one that held the interval together, that made the chord resolve instead of collapse.
 
-Kael's throat tightened. He translated the only way he could.
+Kael's throat tightened.
 
 "The others call it — the closest I can get — the Note Between. The voice that bridges the intervals. The one that turns dissonance into harmony."
 
 Miro's hand pressed harder against the glass.
 
-"Of course it is," he said, his voice cracking open for the first time since Kael had known him — not a joke breaking, not a grin failing, but the thing underneath all of it, the raw and unprotected center that the humor was built to shield. "Of course the one that dies is the one that holds the rest together."
+"Of course it is," he said, his voice cracking. "Of course the one that dies is the one that holds the rest together."
 
 ---
 
 The Choir gathered.
 
-They came slowly — vast shapes converging from all directions, their bioluminescent filaments dimming to a soft, low glow as they drew close. Not the bright pulses of communication or the desperate flares of distress. Something quieter. Something that needed no translation.
+They came slowly — vast shapes converging from all directions, their bioluminescent filaments dimming to a soft, low glow as they drew close. Something quieter than communication. Something that needed no translation.
 
 They formed a ring. Forty-six beings, the smallest still larger than a starship, arranging themselves in a perfect circle around the forty-seventh. Their filaments reached inward, not quite touching the dying member but close — close enough that the light from their bodies merged at the center, creating a soft luminous haze that wrapped around the Note Between like a cocoon.
 
@@ -74,23 +74,21 @@ Kael sat cross-legged on the cockpit floor, his palms flat on the deck plates, h
 
 The song was not sad.
 
-That was the thing he couldn't have predicted. Human grief was a diminishment — a going-quiet, a collapse inward, a loss of color from the world. The Choir's grief was the opposite. It was an *expansion*. Each voice in the ring was singing not just its own note but fragments of the Note Between's frequency — pieces of the dying member's harmonic signature, woven into their own songs, distributed across the collective. They were taking the dying voice into themselves. Not saving it. Not preserving it like a recording. *Absorbing* it — letting it change them, letting it modify their own frequencies the way the Note Between had modified the Choir's harmony for all the long millennia it had sung.
+Each voice in the ring was singing not just its own note but fragments of the Note Between's frequency — pieces of the dying member's harmonic signature, woven into their own songs, distributed across the collective. They were taking the dying voice into themselves. Not saving it. Not preserving it like a recording. *Absorbing* it — letting it change them, letting it modify their own frequencies the way the Note Between had modified the Choir's harmony for all the long millennia it had sung.
 
 The dying member would be gone. But every surviving voice would carry a piece of its resonance forever. The chord would change. The song would be different. But the Note Between would still be there — distributed, transformed, alive in the spaces between forty-six voices that would never again sound quite the way they had before.
 
-It was not immortality. It was something more honest. It was the way a teacher lives on in every student who teaches differently because of them. The way a parent's laugh shows up in a child's laugh thirty years later, unplanned, unmistakable. The way love, even after the lover is gone, reshapes the ones who felt it.
+The way a teacher lives on in every student who teaches differently because of them. The way a parent's laugh shows up in a child's laugh thirty years later, unplanned, unmistakable.
 
 Kael translated none of this aloud. Some things were not meant to be narrated. But Miro was watching through the viewport with tears running freely down his face, making no effort to wipe them, and Kael suspected the man understood more than any non-listener should have been able to.
 
-On Sera's shoulder, Wick was trembling. Not with fear — with the sheer volume of data his corvaxis mind was processing. The owl's layered frequency channels were all active, all recording, all struggling to contain a phenomenon that exceeded his considerable capacity. His enormous amber eyes were wet. Kael hadn't known owls could cry. Perhaps they couldn't. Perhaps Wick was simply so deep in the frequency that his body was echoing what the Choir felt, the way a tuning fork hums when the right note is struck nearby.
+On Sera's shoulder, Wick was trembling. The owl's layered frequency channels were all active, all recording, all struggling to contain a phenomenon that exceeded his considerable capacity. His enormous amber eyes were wet.
 
-Sera was watching too. She stood perfectly still, one hand on the overhead rail, the other hanging at her side. Her face was the same composed mask it had been since she'd boarded — but her breathing had changed. Slow and deliberate, the way you breathe when you're holding something in place by force of will. Kael glanced at her and saw that her eyes were bright. Not overflowing. Not yet. But bright in the way that still water is bright before the surface breaks.
+Sera was watching too. She stood perfectly still, one hand on the overhead rail. Her breathing had changed. Slow and deliberate. Kael glanced at her and saw that her eyes were bright.
 
-She felt him looking. She didn't turn away, didn't compose herself, didn't reassemble the mask. She just met his gaze, and for one unguarded moment Lawkeeper Sera Voss was simply a person standing in a room watching something die and feeling the full, unbearable weight of it.
+She felt him looking. She didn't turn away, didn't compose herself. She just met his gaze.
 
-Then Wick pressed his head against her jaw — a small, instinctive gesture — and she closed her eyes. Just for a breath. When she opened them, the mask was back. But not all the way. Not like before.
-
-Something had shifted. Something that wouldn't shift back.
+Then Wick pressed his head against her jaw, and she closed her eyes. Just for a breath. When she opened them, the mask was back. But not all the way. Not like before.
 
 ---
 
@@ -98,19 +96,19 @@ The Note Between died at hour fifty-nine.
 
 Its bioluminescence faded last — the filaments going dark in slow sequence, like lights turning off in the windows of a building, floor by floor, until the final glow winked out and there was only a vast dark shape, still and silent in the center of the ring.
 
-The Choir held their positions. The requiem didn't end. It shifted — the harmonic adjusting in real time as forty-six voices recalibrated around the absence, finding new intervals, new balances. It was like watching a cathedral lose a pillar and remain standing — not because the loss didn't matter, but because every other pillar quietly took on more weight.
+The Choir held their positions. The requiem didn't end. It shifted — the harmonic adjusting in real time as forty-six voices recalibrated around the absence, finding new intervals, new balances. It was like watching a cathedral lose a pillar and remain standing.
 
-Kael felt the moment the Note Between's frequency left the water. Not a dramatic departure. A slow fade, like the last ring of a bell. The ocean around them was fractionally quieter. The song fractionally thinner. A gap where a voice had been, already being filled but not yet forgotten.
+Kael felt the moment the Note Between's frequency left the water. A slow fade, like the last ring of a bell. The ocean around them was fractionally quieter. A gap where a voice had been, already being filled but not yet forgotten.
 
 He wiped his nose. His hand came away red. He wiped his eyes. They came away wet.
 
 The silence in the cockpit lasted a long time.
 
-Miro broke it. Not with a joke. With a question, asked in a voice that was raw and rough and entirely without performance.
+Miro broke it. Not with a joke.
 
 "Why did it shield me?"
 
-Kael opened his eyes. Miro was looking at him — really looking, the way he had that first time in the submarine corridor, the grin stripped away, the deflection gone, nothing between the question and the need to know.
+Kael opened his eyes. Miro was looking at him — really looking, the grin stripped away, the deflection gone.
 
 "You were helping them. It understood that."
 
@@ -118,7 +116,7 @@ Kael opened his eyes. Miro was looking at him — really looking, the way he had
 
 "It's not math." Kael pulled himself upright. His head was pounding, his frequency-sense raw and oversensitive from hours of sustained contact. "The Choir doesn't think in math. They think in *connection*. Every relationship, every bond, every act of reaching toward another living thing — that's what their song is made of. To them, one person trying to help is not a small thing. It's the same thing they do. It's harmony. It's what they *are*."
 
-Miro sat down. He sat down the way people sit down when their legs have made a decision their brain hasn't caught up to. He put his elbows on his knees and his face in his hands.
+Miro sat down. Put his elbows on his knees and his face in his hands.
 
 "Eleven years," he said, muffled. "I filed reports for eleven years. I documented species. I wrote assessments. I measured sentience markers and cognition thresholds and I put it all in neat little files and I sent them up the chain and I thought — I genuinely thought — that if I just gave them enough data, enough evidence, enough *proof*, they'd do the right thing. Because that's how it's supposed to work, isn't it? You show people the truth and they act on it."
 
@@ -126,7 +124,7 @@ He lifted his face. His eyes were swollen.
 
 "And instead they took my data and used it to find out which species were smart enough to be in the way, and then they built cages. My research. My reports. I was drawing them a map to everything I was trying to protect."
 
-The cockpit was silent. Talon's frequency was low and mournful — a color Kael had never felt from her, something between copper and gray. Even the hawk, sharp and territorial and perpetually certain of herself, understood that this was a moment for stillness.
+The cockpit was silent. Talon's frequency was low and mournful — something between copper and gray.
 
 "You didn't build the cages, Miro," Kael said.
 
@@ -140,9 +138,9 @@ The cockpit was silent. Talon's frequency was low and mournful — a color Kael 
 
 He'd never told anyone that. Not Talon, though she'd felt the shape of it in his frequency often enough. Not the woman on Cygnus Station who'd asked him once why he drank alone. Not himself, on the nights when the memory surfaced and he pushed it back down with Selvaan black tea and pre-war novels and the particular numbness of a man who has decided that some things are better left in the dark.
 
-He told Miro because Miro needed to hear it. And because, sitting in the glow of a requiem sung by beings older than human language, the dark didn't feel like the right place for it anymore.
+He told Miro because the dark didn't feel like the right place for it anymore.
 
-Miro stared at him. The raw, defenseless face slowly reassembled — not the grin, not the jokes, but something sturdier. The look of a man who has just discovered that the specific shape of his pain is not unique, and that this is somehow both terrible and comforting.
+Miro stared at him. The raw, defenseless face slowly reassembled — not the grin, not the jokes, but something sturdier.
 
 "So we're both the idiots who tried to help and made it worse."
 
@@ -206,11 +204,11 @@ No — the display refreshed — eight.
 
 Eight vessels, in a staggered combat descent, their gravitic signatures burning hot and sharp against the cold ocean.
 
-"The Thirty-First," Sera said. She didn't reach for the console this time. Her hand stayed at her side, but Kael saw her fingers close into a fist — a deliberate, controlled gesture, the kind a person makes when they are converting fear into something they can use. "Eight ships. Escort-class and above. At least two heavy cruisers."
+"The Thirty-First," Sera said. Her hand stayed at her side, but Kael saw her fingers close into a fist. "Eight ships. Escort-class and above. At least two heavy cruisers."
 
 Miro looked at the display. Then at Kael. Then at the viewport, where forty-six ancient beings sang their wounded song above an abyss that wanted to swallow the stars.
 
-"So," he said. And for the first time since Kael had known him, the joke didn't come. Miro looked at the incoming fleet and the dying Choir and the uncracked data core and the rift that could end communication across a sector, and he didn't reach for humor. He reached for something underneath it.
+"So," he said. And for the first time since Kael had known him, the joke didn't come.
 
 "What do we do?"
 

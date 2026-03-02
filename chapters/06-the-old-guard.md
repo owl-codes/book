@@ -74,7 +74,7 @@ Wick's frequency flared — a sharp, urgent burst that Kael read as *incoming co
 
 "*Unidentified vessels in restricted waters. This is Captain Maren Dahl, Thirty-First Strategic Fleet, operating under Union Security Directive Seven-Seven-One. You are in a classified operational zone. Power down your drives, surrender your data stores, and prepare for boarding. Non-compliance will be met with terminal force. You have sixty seconds.*"
 
-The voice was calm, clipped, professional. The voice of someone who had given this speech before and expected it to end the same way it always did — with compliance, or with wreckage.
+The voice was calm, clipped, professional.
 
 Sera reached for the comm. Kael watched her, expecting the Lawkeeper script — jurisdiction, authority, legal framework. Instead, she paused. Her hand hovered over the transmit key. She looked at the viewport, where the Choir's diminished light flickered against the dark — forty-six wounded voices still singing, still holding the rift, still alive.
 
@@ -132,7 +132,7 @@ And riding them — *on* them, in them, growing from them like barnacles on anci
 
 Old people.
 
-Men and women and others who didn't fit either category, their faces lined and weathered, their eyes bright with the particular clarity that comes from having seen enough of the galaxy to stop being surprised by it. Their suits were patched and worn and covered in the accumulated markings of decades — frequency sigils, species glyphs, navigational tattoos that mapped routes no jump-gate had ever serviced. Some of them carried tools. Some carried instruments that Kael didn't recognize. One — a woman at the front of the largest platform, her white hair streaming in the current, her face a map of laugh lines and scar tissue — carried nothing at all. She didn't need to. The frequency coming off her was so powerful, so layered, so dense with experience and authority that Kael could feel it through the hull like a physical weight.
+Men and women and others who didn't fit either category, their faces lined and weathered, their eyes bright. Their suits were patched and worn and covered in the accumulated markings of decades — frequency sigils, species glyphs, navigational tattoos that mapped routes no jump-gate had ever serviced. Some of them carried tools. Some carried instruments that Kael didn't recognize. One — a woman at the front of the largest platform, her white hair streaming in the current, her face a map of laugh lines and scar tissue — carried nothing at all. She didn't need to. The frequency coming off her was so powerful, so layered, so dense with experience and authority that Kael could feel it through the hull like a physical weight.
 
 He knew what she was. What they all were.
 
@@ -140,7 +140,7 @@ Listeners. Frequency-listeners, like him — but not like him. Not trained by th
 
 The old guard. The deep listeners.
 
-Miro was staring, his mouth open, every trace of humor suspended in pure, bewildered awe. "Are those — are those *people?* On the — riding the —"
+Miro was staring, his mouth open. "Are those — are those *people?* On the — riding the —"
 
 "Yes."
 
@@ -162,7 +162,7 @@ The deep listeners' mounts — Kael didn't have a better word for them, though *
 
 The white-haired woman's frequency hit the fleet.
 
-It was not a weapon. It was not an attack. It was a *statement* — a harmonic declaration broadcast on every frequency the human ear and mind could process, layered with the deeper resonances of the beings she rode, amplified by the forty-two other listeners behind her. It said, without words, without threat, without any of the machinery of violence: *We are here. We see you. We will not move. Decide.*
+It was not a weapon. It was a *statement* — layered with the deeper resonances of the beings she rode, amplified by the forty-two other listeners behind her. *We are here. We see you. We will not move. Decide.*
 
 Captain Dahl decided.
 
@@ -182,7 +182,7 @@ Kael flew the *Fang & Fable* through the chaos with his teeth clenched and his h
 
 Sera's interceptor was another matter entirely. The Lawkeeper ship moved like a blade — fast, precise, lethal in ways that had nothing to do with weapons. She was broadcasting on every Covenant emergency frequency simultaneously, Wick's layered channels amplifying the signal until it punched through the fleet's jamming like a fist through paper. The legal record was being made in real time. Every lance strike, every order, every violation of Covenant law — documented, encrypted, transmitted on burst channels toward the nearest relay.
 
-"Two Veil-class sensors are trying to jam my transmission," Sera called over the comm. Her voice was steady — the Lawkeeper was back, all the cracks sealed, the mask locked in place not for concealment but for function. This was what she was built for. "If they succeed, we lose the legal record."
+"Two Veil-class sensors are trying to jam my transmission," Sera called over the comm. "If they succeed, we lose the legal record."
 
 "On it," Kael said, and threw the *Fang & Fable* at the nearest sensor ship.
 
@@ -198,7 +198,7 @@ The deep listeners sang.
 
 Not the requiem. Not the Choir's ancient melody. Something new — a war-song, if war-songs could be beautiful and terrible at the same time. Forty-three human voices, augmented by eighteen ancient beings, channeling a collective frequency that Kael felt in his marrow. It was not an attack — not exactly. It was a *wall.* A harmonic barrier, a frequency so dense and so precisely calibrated that the gravitic lances lost coherence when they passed through it. The weapons designed to kill the Choir struck the barrier and *dissolved* — their energy scattered, refracted, turned from focused beams into diffuse light that washed over the Choir's bodies without harm.
 
-The white-haired woman was the anchor. Kael could feel her at the center of the harmonic wall, her frequency the foundation on which forty-two others built. She was extraordinary — a listener of a caliber Kael had never encountered, her range and precision making his own abilities look like a child banging on a piano. But she was also old, and the effort was enormous, and he could hear the strain in her signal the way you hear a bridge creaking under too much weight.
+The white-haired woman was the anchor. Kael could feel her at the center of the harmonic wall, her frequency the foundation on which forty-two others built. But she was old, and the effort was enormous, and he could hear the strain in her signal the way you hear a bridge creaking under too much weight.
 
 The Choir added their voices. Forty-six — no longer forty-seven — threading their ancient harmonics into the deep listeners' wall, strengthening it, filling the gaps with frequencies that only they could produce. The combined sound was staggering. Kael's frequency-sense overloaded and reset twice, his brain struggling to process a signal that existed on more layers than human neurology was designed to handle.
 
@@ -254,7 +254,7 @@ But Talon's frequency — the copper thread, the lifeline, the sound he'd known 
 
 Talon felt it too. She opened one eye and looked at him — a long, searching look, her crest half-raised, her frequency probing the new distance between them with the careful attention of a hawk who has noticed that the wind has changed and is deciding what it means.
 
-It meant something. Kael didn't know what yet. But the Academy had warned about this — the permanent cost of full-spectrum output, the way it reshapes the listener's neural architecture, widening some channels and narrowing others. They'd called it *drift.* The gradual, irreversible shift that turns a listener into something the textbooks don't have a name for.
+The Academy had a name for this — the permanent cost of full-spectrum output, the way it reshapes the listener's neural architecture, widening some channels and narrowing others. They'd called it *drift.*
 
 He filed it away. Not for later. For always.
 
@@ -284,7 +284,7 @@ Kael pressed his hand against the viewport. His response was clumsy compared to 
 
 *I had a good teacher. Forty-seven of them.*
 
-The old woman smiled. It transformed her face — turned the scars and lines into a landscape of warmth, fierce and tender at the same time, the smile of someone who had been protecting ancient things for so long that the protecting had become a kind of joy.
+The old woman smiled. It transformed her face — turned the scars and lines into a landscape of warmth.
 
 *We heard the requiem. We always hear the requiems.*
 
@@ -298,35 +298,35 @@ Her pale eyes moved to Sera's interceptor, floating nearby, Wick's silhouette vi
 
 A small nod — approving, practical. *Good. The young civilizations build cages. It is what the young do. Sometimes the young also build laws. That is better.* Her gaze returned to Kael. *The forty-seventh. The one who died. Tell me.*
 
-Kael told her. Not in words — in frequency, in the raw, unfiltered memory of the Note Between's requiem. The old woman received it in silence. When it was done, her eyes were wet, but her face hadn't changed. She had felt this before. Many times. The grief of the old was not a collapse. It was an accumulation.
+Kael told her. Not in words — in frequency, in the raw, unfiltered memory of the Note Between's requiem. The old woman received it in silence. When it was done, her eyes were wet, but her face hadn't changed.
 
 *We will stay,* she said. *Until the Choir is strong enough to hold alone. Then we will go back to the deep.*
 
 *Who are you?*
 
-She considered the question. Her frequency carried something that might have been humor.
+She considered the question.
 
-*The Choir calls us the Old Chorus. Your Academy called us lost. We call ourselves busy.* The humor faded. Something else replaced it — something careful, measured, the frequency equivalent of choosing words precisely. *We did not come only for the requiem, Kael Orin.*
+*The Choir calls us the Old Chorus. Your Academy called us lost. We call ourselves busy.* A pause. *We did not come only for the requiem, Kael Orin.*
 
-He felt the weight of his own name in her signal. She hadn't pulled it from the conversation. She'd known it already.
+She'd known his name already. He could feel it in the signal.
 
 *What do you mean?*
 
-*We have been watching you for some time. Since the Ryllian sea-elk. Since before that, if I am honest. There are not many listeners left who can hear as wide as you hear. There are fewer still who choose to hear the things that hurt.* Her pale eyes held his through the glass. *The drift you are feeling — the widening — it is not damage. It is what happens when a listener stops holding back. You will hear more now. Much more. Things you will wish you could not hear. And you will not be able to stop.*
+*We have been watching you for some time. Since the Ryllian sea-elk.* Her pale eyes held his through the glass. *The drift you are feeling — the widening — it is not damage. It is what happens when a listener stops holding back. You will hear more now. Much more. And you will not be able to stop.*
 
 Kael's hand pressed harder against the viewport. The new frequencies were already there — the crystalline hum of the rift, the subsonic pulse of the ocean floor, and beneath it all, faint and impossibly distant, something he hadn't noticed until this moment. A sound from somewhere else entirely. Not this ocean. Not this world. Another frequency, another voice, broadcasting on a channel so deep it barely registered as sensation.
 
 Another distress call.
 
-The old woman saw the recognition on his face. She nodded — slowly, without surprise, the way someone nods when a thing they predicted has come true.
+The old woman saw the recognition on his face. She nodded.
 
 *There are eleven cages that we know of, Kael Orin. Across nine worlds. This was only the first.*
 
 She withdrew her hand. The frequency faded. Her mount turned slowly, moving back toward the Choir, and Kael watched her go — this woman who had given up everything he understood about the world in exchange for something so much larger that the trade didn't even register as a loss.
 
-He drank his terrible coffee. The new distress call hummed at the bottom of his hearing — barely there, achingly far, patient the way only ancient things are patient. He tried not to listen to it. He failed. His widened frequency wouldn't let him shut it out.
+He drank his terrible coffee. The new distress call hummed at the bottom of his hearing. He tried not to listen to it. He failed.
 
-Talon stirred on her perch and opened one eye. She felt the new signal too — he could tell by the way her crest rose, the way her frequency shifted from exhaustion to the faintest copper edge of *incoming.*
+Talon stirred on her perch and opened one eye. Her crest rose — the faintest copper edge of *incoming.*
 
 *Home?* she asked.
 
