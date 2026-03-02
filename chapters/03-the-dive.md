@@ -96,7 +96,7 @@ And behind it, more. Dozens more. Vast shapes moving in the blackness, their bio
 
 Talon's frequency had gone completely silent. Kael had never felt that from her before. She was staring through the viewport, every feather pressed flat against her body, her amber eyes wide. Not fear. *Awe.* A frequency so quiet it was almost reverence.
 
-"Alright," Kael said. He unstrapped and moved to the center of the cockpit, where he could sit cross-legged on the floor. He placed his palms on the deck plates. Through the metal, he could feel the hum — the same signal that had crossed two nebulae to reach him, now so close and so powerful that his teeth ached with it.
+"Alright," Kael said. He unstrapped and moved to the center of the cockpit, where he could sit cross-legged on the floor. His left knee popped loud enough that Miro looked over, and the deck plates were cold through his trousers — ridged metal, not designed for sitting, pressing into his ankles at exactly the wrong angle. He shifted, couldn't find a position that didn't hurt, and gave up. [NEW] He placed his palms on the deck plates. Through the metal, he could feel the hum — the same signal that had crossed two nebulae to reach him, now so close and so powerful that his teeth ached with it.
 
 "Opening up. Full spectrum."
 
@@ -262,7 +262,9 @@ Miro stared at him. Then, slowly, the grin came back — battered, tired, but re
 
 "It runs on a Kellerman-IV drive core. But spite helps."
 
-Miro laughed. It was a small, exhausted sound, barely more than a breath, but it was his — not the Choir's, not induced, just a man finding something genuinely funny in the middle of something genuinely terrible. Kael felt something loosen in his own chest. Not much. Just enough.
+Miro opened his mouth, closed it, then tried anyway: "Spite — the renewable energy source they don't want you to know about." [NEW]
+
+Nothing. Kael was checking the depth gauge. Talon was preening a wing feather. The line hung in the recycled air for a beat too long, and Miro's eyes registered it — a flicker, barely visible, the micro-awareness of a rhythm missed — before he moved on as if it hadn't happened. [NEW]
 
 "Sixty-eight hours," Miro said.
 

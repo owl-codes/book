@@ -52,6 +52,8 @@ The owl was frequency-capable. Bonded. And trained — not the way Talon was tra
 
 "Kael Orin," Sera said. "Licensed Zoolinguist, Class Three. Five outstanding warrants in the Kessler Autonomous Region, none currently flagged for extradition. Ship registration lapsed fourteen months ago." She recited it the way you'd read a grocery list. "And Miro Sante — formerly of Union Xenobiological Survey, employment terminated, no current warrants but a notable flag on your Union exit file."
 
+*We were doing fine before you got here*, Kael thought, and immediately buried it. [NEW]
+
 "Sante?" Kael glanced at Miro. "You said you didn't have a surname."
 
 "I said it never suited me. Different thing."

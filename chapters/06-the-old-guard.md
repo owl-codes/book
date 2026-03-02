@@ -152,9 +152,11 @@ Miro was staring, his mouth open. "Are those — are those *people?* On the — 
 
 "They won't be. They're from beyond the Covenant's reach."
 
-"The deep listeners," Sera said. It wasn't a question. She'd gone very still, her hand on the viewport rail, Wick's frequency a low, awed hum. "They're real. I thought they were a Fringe myth."
+"The deep listeners," Sera said. It wasn't a question. She'd gone very still, her hand on the viewport rail. "They're real. I thought they were a Fringe myth."
 
 "So did I."
+
+Sera's hand tightened on the rail. "Forty-three people operating outside Covenant jurisdiction. No registration. No oversight. No legal mandate for any of this." She said it quietly, almost to herself, and Kael heard the discomfort in it — not fear, not hostility, just the instinctive friction of a woman whose entire life was built on frameworks encountering something that existed outside all of them. It bothered her. He could tell it bothered her more than the incoming fleet, which was irrational, and he could tell she knew it was irrational, and it bothered her anyway. Then Wick shifted on her shoulder — a small, deliberate settling of weight — and his frequency pulsed once, low and steady. Whatever the owl communicated, it was enough. Sera's grip eased. She didn't mention it again. [NEW]
 
 Captain Dahl's thirty seconds expired. It didn't matter.
 
@@ -202,7 +204,7 @@ The white-haired woman was the anchor. Kael could feel her at the center of the 
 
 The Choir added their voices. Forty-six — no longer forty-seven — threading their ancient harmonics into the deep listeners' wall, strengthening it, filling the gaps with frequencies that only they could produce. The combined sound was staggering. Kael's frequency-sense overloaded and reset twice, his brain struggling to process a signal that existed on more layers than human neurology was designed to handle.
 
-He flew by instinct when that happened. Flew blind, by feel, by the copper thread of Talon's frequency and the muscle memory of ten thousand hours in this cockpit.
+He flew by instinct when that happened. Flew blind, by feel, by the copper thread of Talon's frequency and the muscle memory of ten thousand hours in this cockpit. His mouth was so dry his tongue stuck to his teeth. There was a water bottle in the storage net behind the seat and he could not reach it and it was, absurdly, the thing that bothered him most. [NEW]
 
 One of the heavy cruisers — the *Indomitable*, according to Sera's tactical feed — changed tactics. Instead of firing through the harmonic wall, it began to circle, searching for a gap. Its captain was smart. The wall couldn't be everywhere at once. The deep listeners had to concentrate their strength, and the Choir had to maintain their position above the rift. There were flanks. There were angles. And the *Indomitable* was finding them.
 
