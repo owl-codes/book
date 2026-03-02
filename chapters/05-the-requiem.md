@@ -28,7 +28,7 @@ What was next was the Choir dying.
 
 Not all of them. Not yet. But the one who had shielded Miro — the one who had spent the last of its reserves protecting a creature a fraction of its size — was failing.
 
-Kael felt it before the bioscanners confirmed it. A thinning in the frequency, like a voice going hoarse. One strand of the Choir's forty-seven-part harmony was losing coherence, its signal fraying at the edges, dropping in and out of phase with the collective. The others were compensating — closing ranks around the weakening voice, bolstering it with their own frequencies, trying to hold the song together the way you'd hold a wounded friend upright. But there was a limit. You could share strength. You couldn't share life.
+Kael felt it before the bioscanners confirmed it. A thinning in the frequency, like a voice going hoarse. One strand of the Choir's forty-seven-part harmony was losing coherence, its signal fraying at the edges, dropping in and out of phase with the collective. The others were compensating — closing ranks around the weakening voice, bolstering it with their own frequencies, trying to hold the song together the way you'd hold a wounded friend upright. But there was a limit. You could lend strength. You couldn't lend time.
 
 "The fourth-largest individual," Miro said quietly, reading his scanner. "Two point one kilometers. Bioluminescence down to twelve percent of baseline. Internal organ function —" He stopped reading the numbers. The numbers were unkind.
 
@@ -220,10 +220,10 @@ Wick's response was more complex — layered, analytical, running probabilities 
 
 *Yes.*
 
-Kael took a breath. The Choir's song pressed against the hull. He could feel all forty-six of them — grieving, exhausted, afraid — and beneath the fear, beneath everything, the same thing that had made the Note Between shield a stranger with its dying body.
+One solder-held ship. One Lawkeeper who believed in systems. One xenobiologist who couldn't stop showing up. Two birds who refused to lose.
 
-*Trust.*
+And something in the dark that wanted silence.
 
-"We stay," Kael said. He put his hands on the controls. "We keep them alive."
+Kael put his hands on the controls.
 
-Outside, the ocean darkened above them as eight warships descended. And below, the rift pulsed once — just once — and the water around it went still.
+"Alright," he said. "Let's see who breaks first."

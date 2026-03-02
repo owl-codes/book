@@ -188,7 +188,7 @@ Miro's face had gone very quiet. Not the performed stillness of a joke about to 
 
 Kael wiped the blood from his upper lip. The image the Choir had given him was already fading at the edges, the way dreams do, but the core of it held — a sensation of *scale*, of something coiled in the deepest dark, patient the way geology is patient.
 
-"They don't have a name for it. The closest I can — it's an anti-frequency. Everything the Choir is — connection, harmony — this thing is the inverse. Severance. Silence. It doesn't destroy life. It destroys the ability of living things to *hear* each other."
+"They don't have a name for it. The closest I can — it's an anti-frequency. Everything the Choir is — connection, harmony — this thing is the inverse. Severance. Silence. It doesn't kill you. It just makes you alone."
 
 He met Miro's eyes. "If it gets out, every frequency-capable species in the sector goes deaf. Not just animals. Anything that relies on signal — neural networks, hive minds, bonded pairs. Every ship's communication array. Just... silence."
 
@@ -240,6 +240,8 @@ The word *defunded* echoed in Kael's memory. Miro's research. Species that met t
 
 Miro stared at the designation code on his screen. "I spent eleven years filing reports. I thought I was fighting bureaucratic indifference. Bad priorities. Budget —" He shook his head. "It wasn't indifference. They knew. They've known all along."
 
+"Systems don't fail," Kael said quietly. "People design them that way."
+
 The ship drifted beside the cage. Beyond the lattice, the Choir moved — shapes trailing curtains of light, their song pressing against the hull, against Kael's mind. Even filtered through the ship's insulation, he could feel their exhaustion. Their frequency was thinner than it should have been. Fraying. They were holding the seal with everything they had left, and everything they had left was not enough for sixty-eight more hours.
 
 "We need to get inside the cage," Kael said. "Destroy the nexus."
@@ -284,7 +286,7 @@ Behind them, the Choir's song shifted — a new chord, but even Kael's battered 
 
 *Hurry.*
 
-Below them, the ocean went on forever. The cage glowed above like a false sky.
+Below them, the ocean went on forever. The cage hung above them. Wrong.
 
 Kael pushed the throttle forward.
 

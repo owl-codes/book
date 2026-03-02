@@ -156,7 +156,7 @@ Miro was staring, his mouth open. "Are those — are those *people?* On the — 
 
 "So did I."
 
-Sera's hand tightened on the rail. "Forty-three people operating outside Covenant jurisdiction. No registration. No oversight. No legal mandate for any of this." She said it quietly, almost to herself, and Kael heard the discomfort in it — not fear, not hostility, just the instinctive friction of a woman whose entire life was built on frameworks encountering something that existed outside all of them. It bothered her. He could tell it bothered her more than the incoming fleet, which was irrational, and he could tell she knew it was irrational, and it bothered her anyway. Then Wick shifted on her shoulder — a small, deliberate settling of weight — and his frequency pulsed once, low and steady. Whatever the owl communicated, it was enough. Sera's grip eased. She didn't mention it again.
+Sera's hand tightened on the rail. "Forty-three people operating outside Covenant jurisdiction. No registration. No oversight. No legal mandate for any of this." She said it quietly, almost to herself. Then Wick shifted on her shoulder — a small, deliberate settling of weight — and his frequency pulsed once, low and steady. Sera's grip eased. She didn't mention it again.
 
 Captain Dahl's thirty seconds expired. It didn't matter.
 

@@ -110,7 +110,7 @@ Kael explained. The Choir as guards. The rift. The anti-frequency entity sealed 
 
 Sera listened without interruption. When he finished, she was quiet for a long time. Her right hand had come to rest on the console edge during the telling, and Kael noticed — because noticing was what kept him alive — that her knuckles had gone pale. Not a fist. Just a grip, slightly too tight, held slightly too long. Wick shifted on her shoulder, pressing closer to her neck, and his frequency dimmed to something Kael hadn't felt from the owl before: not assessment, not cataloguing. *Concern.* Directed inward, at his own bonded partner.
 
-"The Thirty-First," she said finally. Her voice was the same — level, precise, judicial. But there was a breath before *Thirty-First* that shouldn't have been there, a half-second gap where the machinery of her composure had to catch and re-engage. "I've encountered their work before. A colony on Pellan-V — indigenous population relocated overnight. Official records said voluntary resettlement. The ground still had scorch marks." Her hand released the console. She didn't look at it, didn't acknowledge the grip, but Kael saw the blood return to her fingers. Whatever Pellan-V was to her, it wasn't just a case file. "If this is their operation, then it was authorized at the highest level of Union military command. Which means the Union itself is in violation of the Accord."
+"The Thirty-First," she said finally. Her voice was the same — level, precise, judicial. But there was a breath before *Thirty-First* that shouldn't have been there, a half-second gap where the machinery of her composure had to catch and re-engage. "I've encountered their work before. A colony on Pellan-V — indigenous population relocated overnight. Official records said voluntary resettlement. The ground still had scorch marks. I remember the smell." Her hand released the console. She didn't look at it, didn't acknowledge the grip, but Kael saw the blood return to her fingers. Whatever Pellan-V was to her, it wasn't just a case file. "If this is their operation, then it was authorized at the highest level of Union military command. Which means the Union itself is in violation of the Accord."
 
 "Does that change anything for you?"
 
@@ -132,7 +132,7 @@ Sera listened, then shook her head. "You can't destroy Covenant evidence."
 
 "And if we don't destroy it, the Choir dies and something comes out of that rift that makes the cage look like a parking ticket."
 
-Sera's jaw tightened. Kael watched her weigh it — the law against the living, the procedure against the ticking clock. Two kinds of pressure, and she was the thing being crushed between them. [MOTIF] He'd seen that look before, on the faces of people who believed in systems.
+Sera's jaw tightened. Kael watched her weigh it — the law against the living, the procedure against the ticking clock. Two pressures. She stood between them and didn't move. [MOTIF] He'd seen that look before, on the faces of people who believed in systems.
 
 "There's a middle path," Miro said, stepping in with the careful diplomacy of a man who'd spent eleven years navigating bureaucracies. "I can extract the control nexus intact. Pull the whole hub — housing, fusion cells, signal architecture, designation codes. Every piece of evidence preserved, chain of custody maintained. You get your prosecution. The Choir gets to live."
 
@@ -204,7 +204,7 @@ The frayed bottom edge of the cage had a section where the nodes had failed enti
 
 Kael looked at Sera. She met his gaze evenly. Nothing in her expression suggested she was going to tell him to stop.
 
-"Logging this as an authorized Covenant emergency intervention," she said. "Under Article Twelve, subsection four — immediate action to preserve sentient life where delay would result in irreversible harm." She paused. "If we die, the legal record will show we died correctly."
+"Logging this as an authorized Covenant emergency intervention," she said. "Under Article Twelve, subsection four — immediate action to preserve sentient life where delay would result in irreversible harm." She paused. "If we die, it will be properly documented."
 
 "That's very comforting," Miro said. "I'll put it on my headstone."
 
@@ -332,13 +332,13 @@ Not true silence — the Choir was still singing. But the song had changed. The 
 
 *Joy.*
 
-Not human joy. This was joy as architecture — a multi-layered harmonic that used emotional registers Kael didn't have names for, each voice contributing a strand until the combined frequency became something closer to music. To prayer.
+It wasn't human joy. It was too large for that. Too steady. Like something ancient finally allowed to breathe again.
 
 And it was *theirs*. Kael felt that distinction like a blade. He remembered Miro's cracked rib, the eleven minutes of laughter that had been a weapon. This was the opposite — not forced, not aimed, not desperate. Forty-seven beings feeling something so large they couldn't contain it, the overflow washing across everything nearby like light from a star. The same capability. Used not to compel, but simply to *be*.
 
 His eyes burned. He blinked hard and said nothing.
 
-Sera's hand was on the viewport glass. She pulled it back when she saw Kael looking — a quick, sharp motion, as if the glass had burned her. Whatever she'd been reaching toward in those four seconds, she wasn't going to name it.
+Sera's hand was on the viewport glass. She pulled it back when she saw Kael looking — a quick, sharp motion, as if the glass had burned her. She adjusted her sleeve as if that had been the point. Whatever she'd been reaching toward in those four seconds, she wasn't going to name it.
 
 "Miro," she said, her voice carefully level. "Report."
 
@@ -384,7 +384,7 @@ Not of the rift. Not of the entity below.
 
 Of what was coming from above.
 
-Kael let the frequency fade and opened his eyes. Through the viewport, the Choir's light painted the water — blue, white, pale gold. He did the math the way he always did, quietly, without sharing. One ship held together by illegal solder. One Lawkeeper interceptor built for speed, not sustained combat. One xenobiologist in a damp EVA suit. One Lawkeeper who gripped consoles too hard when she thought no one was looking. A hawk and an owl who couldn't agree on anything. And forty-seven beings the size of city districts who had spent two years starving and could barely hold their song together.
+Kael let the frequency fade and opened his eyes. Through the viewport, the Choir's light painted the water — blue, white, pale gold. He did the math the way he always did, quietly, without sharing. One ship held together by illegal solder. One Lawkeeper interceptor built for speed, not sustained combat. One xenobiologist in a damp EVA suit. One Lawkeeper who gripped consoles too hard when she thought no one was looking. A hawk who trusted instinct. An owl who trusted evidence. And forty-seven beings the size of city districts who had spent two years starving and could barely hold their song together.
 
 Against the Thirty-First Strategic Fleet.
 
