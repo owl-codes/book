@@ -106,9 +106,9 @@ Sera studied the data as it scrolled across the screen. Her expression didn't ch
 
 Kael explained. The Choir as guards. The rift. The anti-frequency entity sealed beneath their song. The countdown. The Union designation on the cage hardware — UMSF-Vanguard, the Thirty-First Strategic Fleet.
 
-Sera listened without interruption. When he finished, she was quiet for a long time.
+Sera listened without interruption. When he finished, she was quiet for a long time. Her right hand had come to rest on the console edge during the telling, and Kael noticed — because noticing was what kept him alive — that her knuckles had gone pale. Not a fist. Just a grip, slightly too tight, held slightly too long. Wick shifted on her shoulder, pressing closer to her neck, and his frequency dimmed to something Kael hadn't felt from the owl before: not assessment, not cataloguing. *Concern.* Directed inward, at his own bonded partner.
 
-"The Thirty-First," she said finally. "I've encountered their work before. A colony on Pellan-V — indigenous population relocated overnight. Official records said voluntary resettlement. The ground still had scorch marks." She looked at the cage. "If this is their operation, then it was authorized at the highest level of Union military command. Which means the Union itself is in violation of the Accord."
+"The Thirty-First," she said finally. Her voice was the same — level, precise, judicial. But there was a breath before *Thirty-First* that shouldn't have been there, a half-second gap where the machinery of her composure had to catch and re-engage. "I've encountered their work before. A colony on Pellan-V — indigenous population relocated overnight. Official records said voluntary resettlement. The ground still had scorch marks." Her hand released the console. She didn't look at it, didn't acknowledge the grip, but Kael saw the blood return to her fingers. Whatever Pellan-V was to her, it wasn't just a case file. "If this is their operation, then it was authorized at the highest level of Union military command. Which means the Union itself is in violation of the Accord."
 
 "Does that change anything for you?"
 
@@ -178,9 +178,13 @@ Kael watched one of the organisms pulse. It was small — maybe a meter across �
 
 "They're adapting to the gravitic field," Miro said, wonder creeping into his voice despite everything. "Using the energy output from the nodes as a food source. Each one's developed slightly different coloring based on which part of the spectrum it's metabolizing." He shook his head. "Life finds a way. Even down here."
 
-One of the organisms detached from the cage strut and drifted past the viewport — a small, luminous thing, trailing its fronds, pulsing violet. Talon tracked it with predatory focus. Wick tracked it with academic interest. The two frequencies — *hunt* and *classify* — brushed against each other in Kael's mind, and for half a second, they harmonized. Both animals, despite their differences, agreed: *that thing is interesting.*
+One of the organisms detached from the cage strut and drifted past the viewport — a small, luminous thing, trailing its fronds, pulsing violet. As it drifted near a still-active node, something happened. The organism's fronds flared wide and the violet glow intensified, and the node beside it flickered — dimmed — as though the creature had drawn the energy out of it like a sponge pulling water from stone. The gravitic field around that node visibly warped, bending the particulate in the water, before the organism released and drifted on, still pulsing, brighter than before.
 
-Then the moment passed. Talon looked away. Wick didn't.
+Talon tracked it with predatory focus. Wick tracked it with something deeper — not just academic interest but the layered, multi-channel attention of a corvaxis cataloguing a new variable. His frequency pulsed in a pattern Kael hadn't heard from the owl before: dense, recursive, the same data being processed and reprocessed, as though Wick were running the observation through every analytical framework he possessed and finding it significant in all of them.
+
+The two frequencies — *hunt* and *classify* — brushed against each other in Kael's mind, and for half a second, they harmonized. Both animals, despite their differences, agreed: *that thing is important.*
+
+Then the moment passed. Talon looked away. Wick didn't. The owl's head continued to track the organism long after it had faded into the dark water, and Kael filed that away too — Wick didn't linger on things that were merely interesting. He lingered on things that mattered.
 
 "There," Kael said. "The gap."
 
@@ -328,7 +332,9 @@ Not true silence — the Choir was still singing. But the song had changed. The 
 
 Not human joy. Not the sharp, bright burst of relief or the warm glow of satisfaction. This was joy as architecture — a towering, multi-layered harmonic that used emotional registers Kael didn't have names for, each voice of the Choir contributing a different strand until the combined frequency was so vast and so complex that it transcended emotion entirely and became something closer to music. To prayer. To a sound the universe makes when something broken becomes whole.
 
-Kael's eyes burned. He blinked hard and said nothing.
+And it was *theirs*. Kael felt that distinction like a blade — clean and immediate. He remembered Miro's cracked rib, the eleven minutes of laughter that had been a weapon, a frequency shoved into a man's skull until his body betrayed him. This was the opposite. This was not forced, not aimed, not desperate. This was forty-seven beings feeling something so large they couldn't contain it, and the overflow washing across everything nearby like light from a star. The same species. The same capability. Used not to compel, but simply to *be*. Kael understood, then, how afraid they must have been — to have turned that gift into a weapon at all.
+
+His eyes burned. He blinked hard and said nothing.
 
 "Miro," Sera said, her voice carefully level. "Report."
 
@@ -373,3 +379,9 @@ Behind them, the Choir sang — free, strengthening, their ancient song pouring 
 Not of the rift. Not of the entity below.
 
 Of what was coming from above.
+
+Kael let the frequency fade and opened his eyes. Through the viewport, the Choir's light painted the water in slow, vast brushstrokes — beautiful, impossibly fragile for all its scale. He did the math the way he always did, quietly, without sharing. One ship held together by illegal solder. One Lawkeeper interceptor built for speed, not sustained combat. One xenobiologist in a damp EVA suit. One Lawkeeper who gripped consoles too hard when she thought no one was looking. A hawk and an owl who couldn't agree on anything. And forty-seven beings the size of city districts who had spent two years starving and could barely hold their song together.
+
+Against the Thirty-First Strategic Fleet. A ghost division with black-budget warships and the institutional will to cage a sentient species for a weapon.
+
+He'd had worse odds. He was almost sure of it. But sitting in the pilot's seat of the *Fang & Fable*, listening to the song of something ancient and grateful and afraid, he couldn't remember when.
